@@ -1,0 +1,1521 @@
+Ticket_ID,Created_Date,Resolved_Date,Status,Priority,Category,Issue_Type,Channel,Agent,Customer_ID
+T1157,2026-04-14,2026-04-15, Closed,Low,Billing,Overcharge,Chat,Neha,C1852
+T1181,2026-02-11,2026-02-12,Closed,Medium,Billing,Invoice Issue,Web,Karan,C4089
+T0429,2026-03-16,2026-03-16,CLOSED,Low,Login,Login Error,Email,Sneha,C2769
+T0144,2026-06-24,2026-06-24,closed,Low,Login,Account Locked,Email,Anjali,C2908
+T1493,2026-07-05,2026-07-06, Closed,Low,Billing,Plan Upgrade Error,Phone,Amit,C2897
+T1155,2026-02-09,2026-02-09,CLOSED,Medium,Payment,Card Declined,Web,Anjali,C2962
+T0022,2026-06-02,2026-06-03,closed,High,Technical,Slow Performance,Email,Amit,C1280
+T0596,2026-05-13,2026-05-13,closed,Medium,Account,Email Change,Email,Amit,C2022
+T1294,2026-06-01,2026-06-02,Closed,Low,Payment,Card Declined,Phone,Priya,C2094
+T0107,2026-02-05,2026-02-06,CLOSED,High,Technical,App Crash,Web,Sneha,C4143
+T0454,2026-02-21,2026-02-21,CLOSED,Medium,Technical,Sync Issue,Email,Amit,C4933
+T0375,2026-06-02,2026-06-02,closed,,Login,Password Reset,Phone,Karan,C3914
+T1271,2026-02-09,2026-02-10,CLOSED,Medium,Billing,Invoice Issue,Chat,Rahul,C2921
+T1420,2026-05-13,2026-05-13, Closed,Low,Technical,Feature Bug,Chat,Amit,C2311
+T0534,2026-01-17,2026-01-17, Closed,Medium,Account,Email Change,Phone,Karan,C1223
+T1343,2026-04-20,2026-04-21,CLOSED,High,Technical,Sync Issue,Chat,Karan,C1000
+T0270,2026-05-15,,OPEN,High,Account,Update Profile,Chat,Priya,C4467
+T0239,2026-06-15,2026-06-15,closed,Medium,Account,Delete Account,Chat,Vikram,C2210
+T1317,2026-08-08,2026-08-08,CLOSED,Medium,Account,Delete Account,Phone,Karan,C1159
+T0894,2026-05-31,2026-05-31,CLOSED,Medium,Billing,Overcharge,Web,Neha,C2601
+T0041,2026-05-21,2026-05-22,closed,Low,Billing,Plan Upgrade Error,Phone,Vikram,C4402
+T0583,2026-06-25,2026-06-26, Closed,Medium,Payment,Duplicate Charge,Chat,Amit,C4057
+T1149,2026-02-06,2026-02-06,Closed,Medium,Login,Account Locked,Web,Anjali,C4024
+T1335,2026-08-15,2026-08-15,CLOSED,Low,Billing,Plan Upgrade Error,Email,Priya,C3323
+T0066,2026-03-06,2026-03-06,closed,Medium,Technical,App Crash,Phone,Neha,C3472
+T0159,2026-02-08,2026-02-08,closed,High,Billing,Invoice Issue,Phone,Neha,C2715
+T1464,2026-02-08,2026-02-09, Closed,Low,,Slow Performance,Email,Neha,C1551
+T0171,2026-03-05,2026-03-05, Closed,Low,Login,Account Locked,Phone,Neha,C4833
+T1197,2026-01-08,2026-01-08, Closed,Medium,Login,OTP Not Received,Chat,Karan,C1103
+T1281,2026-05-12,2026-05-12,Closed,Low,Login,Password Reset,Phone,Vikram,C4127
+T0899,2026-01-26,,OPEN,Low,Account,Delete Account,Phone,Vikram,C2634
+T0064,2026-01-30,2026-01-31,closed,Medium,Technical,App Crash,Web,Sneha,C2741
+T1064,2026-03-09,2026-03-09,CLOSED,Medium,Billing,Billing Cycle Query,Phone,Karan,C1936
+T1500,2026-06-09,2026-06-09,Closed,Medium,Billing,Billing Cycle Query,Email,Vikram,C1090
+T0729,2026-04-08,2026-04-09,Closed,Low,Technical,Slow Performance,Phone,Rahul,C4120
+T0391,2026-03-27,2026-03-28,CLOSED,Medium,Payment,Duplicate Charge,Email,Anjali,C4049
+T0594,2026-07-29,2026-07-30,closed,Low,Technical,Feature Bug,Web,Vikram,C4591
+T0849,2026-06-08,,Open,Medium,Technical,Feature Bug,Phone,Karan,C3875
+T1371,2026-02-20,2026-02-21,Closed,Medium,Billing,Billing Cycle Query,Email,Rahul,C3484
+T1383,2026-05-24,2026-05-24,closed,Medium,Login,Login Error,Phone,Vikram,C4125
+T0839,2026-04-27,2026-04-29,closed,Low,Technical,Slow Performance,Phone,Priya,C2140
+T0118,2026-06-17,2026-06-17, Closed,Medium,Billing,Overcharge,Chat,Neha,C2270
+T0084,2026-07-25,2026-07-25,closed,Low,Login,Login Error,Web,Sneha,C3486
+T0189,2026-02-22,2026-02-22, Closed,High,Technical,Feature Bug,Phone,Neha,C4745
+T0659,2026-03-24,2026-03-24,Closed,High,Account,Subscription Cancel,Chat,Vikram,C4657
+T1175,2026-07-26,2026-07-26,Closed,Low,Payment,Payment Failed,Email,Rahul,C4016
+T0504,2026-05-19,2026-05-19,closed,High,Billing,Billing Cycle Query,Phone,Priya,C1589
+T1176,2026-06-30,2026-07-01,Closed,Low,Technical,Sync Issue,Email,Priya,C1230
+T0104,2026-05-16,2026-05-17, Closed,High,Payment,Card Declined,Email,Priya,C4056
+T1336,2026-01-06,2026-01-07, Closed,Medium,Billing,Overcharge,Email,Amit,C4926
+T0623,2026-03-19,2026-03-19,closed,Medium,Technical,Feature Bug,Web,Vikram,C4295
+T0106,2026-04-21,2026-04-22, Closed,Medium,Billing,Billing Cycle Query,Chat,Priya,C2413
+T0646,2026-01-26,2026-01-26, Closed,Medium,Login,OTP Not Received,Chat,Neha,C2860
+T0405,2026-03-29,2026-03-29, Closed,High,Login,Account Locked,Email,Anjali,C1889
+T0027,2026-05-06,2026-05-06,Closed,Low,Account,Delete Account,Chat,Karan,C3070
+T1183,2026-07-10,2026-07-10,CLOSED,Low,Login,OTP Not Received,Web,Anjali,C2466
+T1023,2026-04-29,2026-04-29,Closed,High,Billing,Plan Upgrade Error,Phone,Vikram,C1198
+T0214,2026-07-06,2026-07-06,CLOSED,Low,Account,Subscription Cancel,Email,Priya,C4405
+T0492,2026-05-05,2026-05-05,Closed,Medium,Billing,Overcharge,Web,Rahul,C2174
+T1171,2026-08-12,,Open,,Account,Subscription Cancel,Web,Rahul,C1535
+T0411,2026-06-15,2026-06-15,Closed,Low,Billing,Plan Upgrade Error,Email,Rahul,C2456
+T1164,2026-06-09,2026-06-10, Closed,Low,Payment,Refund Request,Web,Priya,C2486
+T0675,2026-03-03,2026-03-04,CLOSED,Low,Billing,Plan Upgrade Error,Chat,Priya,C2939
+T0817,2026-04-03,2026-04-03,Closed,Medium,Login,Login Error,Chat,Priya,C1963
+T0050,2026-07-03,2026-07-03,closed,Low,Login,Password Reset,Phone,Vikram,C4856
+T0009,2026-01-29,2026-01-30,closed,Medium,Payment,Refund Request,Email,Rahul,C4527
+T1490,2026-05-12,2026-05-13,closed,Low,Payment,Refund Request,Phone,Neha,C3137
+T0918,2026-05-06,2026-05-07,CLOSED,High,Technical,Feature Bug,Chat,Sneha,C2034
+T0867,2026-01-08,2026-01-08,CLOSED,Medium,Billing,Plan Upgrade Error,Web,Neha,C2631
+T0827,2026-01-13,2026-01-13,CLOSED,Medium,Login,Account Locked,Email,Anjali,C1187
+T0157,2026-01-05,2026-01-05,Closed,Low,Billing,Billing Cycle Query,Web,Anjali,C4341
+T0230,2026-01-17,2026-01-17, Closed,Low,Login,Password Reset,Phone,Neha,C4482
+T0715,2026-01-02,2026-01-02, Closed,Medium,Login,Login Error,Phone,Rahul,C3450
+T0487,2026-05-11,2026-05-12, Closed,Low,Technical,Feature Bug,Phone,Amit,C2861
+T0117,2026-03-26,2026-03-27, Closed,Low,Technical,Feature Bug,Email,Neha,C1269
+T1306,2026-02-26,2026-02-26, Closed,Medium,Payment,Duplicate Charge,Email,Sneha,C1166
+T0241,2026-02-25,2026-02-26,Closed,High,Technical,App Crash,Email,Rahul,C2073
+T0308,2026-07-30,2026-07-31,CLOSED,Medium,Payment,Payment Failed,Web,Amit,C1267
+T0364,2026-06-11,2026-06-11,closed,High,Technical,App Crash,Chat,Amit,C1551
+T0660,2026-01-16,2026-01-16, Closed,Medium,Billing,Overcharge,Phone,Priya,C2103
+T0886,2026-07-30,,OPEN,Medium,Billing,Billing Cycle Query,Email,Sneha,C4006
+T0942,2026-05-10,2026-05-10,Closed,High,Login,Account Locked,Email,Amit,C3803
+T1465,2026-07-22,2026-07-23,Closed,Low,Payment,Duplicate Charge,Web,Vikram,C4439
+T0743,2026-01-15,2026-01-15,Closed,Low,Account,Delete Account,Phone,Vikram,C3501
+T1261,2026-06-22,2026-06-23,CLOSED,High,Technical,Feature Bug,Web,Sneha,C4611
+T0689,2026-04-06,2026-04-07, Closed,Low,Payment,Refund Request,Chat,Vikram,C3844
+T0960,2026-05-06,2026-05-06,closed,High,Billing,Overcharge,Email,Sneha,C1027
+T0069,2026-01-30,2026-02-01,Closed,Medium,Technical,App Crash,Web,Karan,C2324
+T0079,2026-06-12,2026-06-12,Closed,Low,Account,Delete Account,Phone,Priya,C4114
+T1357,2026-04-08,2026-04-08, Closed,High,Login,Account Locked,Web,Rahul,C2286
+T0951,2026-01-31,2026-02-01, Closed,Medium,Billing,Overcharge,Web,Neha,C2285
+T0895,2026-01-29,2026-01-29,closed,Medium,Account,Update Profile,Phone,Neha,C2181
+T0798,2026-03-12,2026-03-13,closed,Medium,Technical,App Crash,Email,Amit,C3454
+T0843,2026-06-26,,Open ,Low,Payment,Duplicate Charge,Phone,Anjali,C3193
+T1443,2026-01-03,2026-01-03, Closed,Medium,Login,OTP Not Received,Email,Vikram,C4024
+T0655,2026-05-02,2026-05-02,Closed,Low,Login,Account Locked,Email,Sneha,C4074
+T1350,2026-02-16,2026-02-16,closed,Medium,Login,Login Error,Chat,Rahul,C3121
+T1079,2026-03-22,2026-03-22,closed,Medium,Login,Account Locked,Email,Neha,C4565
+T1148,2026-01-28,2026-01-28,Closed,High,Login,Login Error,Email,Anjali,C2961
+T0434,2026-06-27,2026-06-27, Closed,Low,Billing,Overcharge,Web,Rahul,C2406
+T1302,2026-06-07,2026-06-08,Closed,Low,Technical,App Crash,Web,Neha,C4277
+T1036,2026-04-15,2026-04-15,closed,High,Login,OTP Not Received,Chat,Vikram,C3253
+T0570,2026-02-15,2026-02-15,CLOSED,Low,Login,Password Reset,Phone,Rahul,C4981
+T1423,2026-04-01,2026-04-02,closed,Medium,Payment,Card Declined,Phone,Sneha,C1574
+T0687,2026-08-01,2026-08-01, Closed,High,Payment,Refund Request,Web,Priya,C1085
+T1113,2026-03-05,2026-03-05,Closed,Low,Account,Email Change,Web,Neha,C4987
+T0053,2026-08-14,2026-08-15, Closed,Medium,Billing,Plan Upgrade Error,Chat,Priya,C2142
+T1201,2026-01-18,2026-01-18,Closed,Low,Login,Password Reset,Chat,Anjali,C1261
+T0210,2026-05-08,2026-05-08,CLOSED,Low,Payment,Card Declined,Email,Vikram,C3756
+T1225,2026-04-12,2026-04-12, Closed,Medium,Payment,Duplicate Charge,Web,Neha,C3246
+T0896,2026-03-17,2026-03-17,Closed,Medium,Account,Delete Account,Web,Priya,C4275
+T0702,2026-05-17,2026-05-17, Closed,Low,Account,Subscription Cancel,Chat,Vikram,C1260
+T0152,2026-04-28,2026-04-28,CLOSED,Medium,Technical,Sync Issue,Email,Vikram,C3070
+T0206,2026-03-05,2026-03-05, Closed,Low,Account,Subscription Cancel,Web,Karan,C4867
+T0928,2026-03-29,2026-03-29,Closed,High,Login,Login Error,Web,Neha,C1793
+T0261,2026-08-05,,OPEN,Low,Login,Account Locked,Phone,Amit,C1376
+T1412,2026-01-01,2026-01-02,closed,Low,Technical,Slow Performance,Email,Neha,C4131
+T0436,2026-06-28,2026-06-28,Closed,,Login,OTP Not Received,Web,Sneha,C4232
+T0511,2026-01-31,2026-01-31, Closed,Medium,Login,Password Reset,Web,Rahul,C2660
+T1143,2026-04-10,2026-04-10, Closed,High,Login,OTP Not Received,Chat,Neha,C1725
+T0242,2026-05-18,2026-05-18,closed,Medium,Billing,Billing Cycle Query,Phone,Priya,C3623
+T0642,2026-03-27,2026-03-29,closed,Low,Technical,Slow Performance,Email,Rahul,C3201
+T0862,2026-06-05,2026-06-06,Closed,High,Technical,App Crash,Web,Priya,C1789
+T0426,2026-03-25,2026-03-26,Closed,Medium,Billing,Billing Cycle Query,Chat,Priya,C3963
+T1077,2026-02-08,2026-02-08,closed,High,Billing,Billing Cycle Query,Chat,Neha,C2749
+T1417,2026-07-27,2026-07-27,Closed,Medium,Login,Password Reset,Phone,Anjali,C4942
+T1082,2026-05-06,2026-05-06,CLOSED,High,Billing,Invoice Issue,Chat,Priya,C4853
+T1084,2026-08-06,2026-08-07,closed,Medium,Technical,App Crash,Web,Priya,C2778
+T0128,2026-02-01,2026-02-01, Closed,High,Billing,Billing Cycle Query,Web,Sneha,C2233
+T0650,2026-04-06,2026-04-06,CLOSED,Medium,Login,OTP Not Received,Email,Amit,C1482
+T0799,2026-07-12,2026-07-13, Closed,Medium,Payment,Card Declined,Email,Amit,C2793
+T0878,2026-07-17,2026-07-17,closed,Medium,Billing,Overcharge,Phone,Karan,C2318
+T1288,2026-04-13,2026-04-14,CLOSED,Medium,Payment,Payment Failed,Web,Vikram,C4041
+T0039,2026-04-13,2026-04-13,Closed,Medium,Login,Login Error,Chat,Vikram,C3024
+T0408,2026-06-11,2026-06-11,Closed,Medium,Billing,Overcharge,Web,Neha,C1649
+T0462,2026-06-07,2026-06-07,CLOSED,Medium,Login,Login Error,Email,Sneha,C4275
+T0054,2026-04-01,2026-04-01,CLOSED,Low,,Login Error,Chat,Anjali,C1868
+T1262,2026-01-20,2026-01-21, Closed,Medium,Technical,Feature Bug,Web,Amit,C3881
+T1448,2026-05-26,2026-05-27, Closed,Medium,Payment,Payment Failed,Chat,Amit,C3361
+T0443,2026-03-23,2026-03-23, Closed,Medium,Login,Account Locked,Chat,Rahul,C4135
+T1133,2026-04-06,2026-04-07, Closed,Low,Payment,Refund Request,Email,Amit,C3456
+T1168,2026-02-08,2026-02-08,closed,High,Account,Update Profile,Web,Vikram,C4755
+T1097,2026-01-07,2026-01-07,closed,High,Account,Email Change,Web,Vikram,C3630
+T0259,2026-07-11,2026-07-11,Closed,High,Account,Delete Account,Phone,Anjali,C3277
+T0784,2026-05-05,2026-05-06,CLOSED,High,Technical,Feature Bug,Chat,Vikram,C1507
+T1364,2026-08-14,2026-08-14,closed,Medium,Billing,Plan Upgrade Error,Chat,Rahul,C1994
+T0266,2026-03-05,2026-03-05,CLOSED,Medium,Login,Login Error,Chat,Amit,C1410
+T0244,2026-07-09,2026-07-09,closed,Medium,,Login Error,Email,Karan,C3728
+T1236,2026-08-10,2026-08-10, Closed,High,Payment,Card Declined,Chat,Sneha,C2392
+T0254,2026-07-11,2026-07-12,Closed,Low,Billing,Billing Cycle Query,Web,Anjali,C4991
+T0153,2026-08-14,2026-08-15,CLOSED,Medium,Technical,Sync Issue,Email,Vikram,C1548
+T0313,2026-01-27,2026-01-27,Closed,Medium,Billing,Plan Upgrade Error,Chat,Vikram,C4402
+T1063,2026-02-19,2026-02-19,closed,Medium,Billing,Overcharge,Chat,Neha,C1640
+T0072,2026-07-03,2026-07-03,CLOSED,Low,Login,Login Error,Chat,Anjali,C4820
+T1297,2026-05-31,2026-06-01, Closed,Low,Technical,Slow Performance,Email,Priya,C1240
+T1324,2026-06-24,2026-06-25,CLOSED,Low,Payment,Refund Request,Chat,Vikram,C1021
+T0679,2026-01-04,2026-01-04,Closed,Medium,Login,Login Error,Chat,Priya,C1420
+T0218,2026-02-20,2026-02-20,CLOSED,Low,Login,Password Reset,Chat,Neha,C2335
+T1316,2026-05-07,2026-05-07,CLOSED,Low,Login,Account Locked,Email,Amit,C2939
+T1401,2026-02-05,2026-02-07,Closed,Low,Technical,Slow Performance,Phone,Amit,C3442
+T0350,2026-02-23,2026-02-23,CLOSED,Medium,Login,Password Reset,Phone,Priya,C2248
+T0696,2026-01-19,2026-01-19,closed,Low,Billing,Invoice Issue,Chat,Priya,C1485
+T0224,2026-02-25,2026-02-25,closed,Medium,Billing,Plan Upgrade Error,Email,Anjali,C3237
+T1291,2026-01-22,2026-01-22,Closed,Medium,Billing,Overcharge,Web,Vikram,C4494
+T0331,2026-06-05,2026-06-05,CLOSED,Medium,Login,Login Error,Web,Vikram,C2714
+T0491,2026-01-10,2026-01-11,CLOSED,Medium,Billing,Plan Upgrade Error,Web,Karan,C1686
+T0510,2026-01-17,2026-01-18, Closed,Low,Payment,Payment Failed,Chat,Anjali,C2592
+T0309,2026-05-06,2026-05-06,closed,Low,Account,Subscription Cancel,Chat,Neha,C4692
+T0656,2026-07-26,2026-07-26,CLOSED,Low,Login,OTP Not Received,Chat,Anjali,C1346
+T0733,2026-06-26,2026-06-27,Closed,Low,Technical,Sync Issue,Web,Anjali,C3600
+T0042,2026-07-02,2026-07-02,CLOSED,Medium,Account,Subscription Cancel,Web,Anjali,C1317
+T0759,2026-07-05,2026-07-05,closed,High,Account,Delete Account,Chat,Rahul,C2483
+T1060,2026-06-23,2026-06-23,CLOSED,Low,Account,Email Change,Chat,Neha,C2127
+T0700,2026-05-28,2026-05-29,Closed,Medium,Payment,Card Declined,Email,Neha,C1569
+T0132,2026-02-16,2026-02-16, Closed,Low,Account,Delete Account,Phone,Anjali,C3587
+T0207,2026-03-27,2026-03-27,closed,Medium,Login,Login Error,Phone,Neha,C2803
+T0169,2026-02-19,2026-02-20, Closed,Low,Billing,Billing Cycle Query,Chat,Anjali,C2117
+T0962,2026-01-20,2026-01-20,CLOSED,Low,Account,Update Profile,Email,Sneha,C3979
+T0874,2026-06-08,2026-06-08,closed,Low,Technical,Feature Bug,Email,Neha,C4840
+T1419,2026-06-06,2026-06-08, Closed,Low,Technical,App Crash,Email,Anjali,C3027
+T0625,2026-06-29,2026-06-30, Closed,High,,Feature Bug,Chat,Amit,C4026
+T0790,2026-06-01,2026-06-02,closed,Low,Technical,App Crash,Chat,Sneha,C4501
+T0417,2026-05-27,2026-05-27, Closed,High,Login,Account Locked,Chat,Priya,C1130
+T0196,2026-05-02,2026-05-02,Closed,High,Login,Password Reset,Phone,Vikram,C3263
+T1264,2026-03-30,2026-03-30,Closed,Low,Login,Login Error,Email,Vikram,C3341
+T0272,2026-07-07,2026-07-07,closed,High,Payment,Duplicate Charge,Chat,Vikram,C2256
+T1034,2026-04-30,2026-05-01,closed,Medium,Payment,Duplicate Charge,Web,Anjali,C3762
+T1474,2026-01-24,2026-01-25, Closed,,Technical,Slow Performance,Phone,Karan,C4127
+T0600,2026-05-07,2026-05-07, Closed,High,Payment,Refund Request,Web,Karan,C4057
+T0892,2026-08-08,2026-08-08,closed,High,Billing,Billing Cycle Query,Email,Amit,C2680
+T1472,2026-04-19,,OPEN,Medium,Billing,Invoice Issue,Web,Neha,C2167
+T1144,2026-08-13,2026-08-13,CLOSED,Low,Billing,Plan Upgrade Error,Phone,Karan,C1839
+T0155,2026-02-06,2026-02-06, Closed,Medium,Login,Login Error,Web,Neha,C4092
+T0180,2026-07-27,2026-07-28,Closed,High,Technical,Sync Issue,Chat,Priya,C1131
+T0384,2026-01-02,2026-01-03,Closed,High,Payment,Payment Failed,Email,Anjali,C3514
+T1458,2026-06-17,2026-06-17,Closed,High,Account,Update Profile,Chat,Anjali,C2135
+T0691,2026-05-11,2026-05-13,CLOSED,Low,Technical,Slow Performance,Phone,Priya,C1685
+T1355,2026-06-11,2026-06-11,Closed,Low,Login,Login Error,Web,Rahul,C4225
+T1199,2026-01-05,2026-01-06,CLOSED,High,Technical,Sync Issue,Chat,Neha,C4916
+T0193,2026-01-02,2026-01-02, Closed,Medium,,Billing Cycle Query,Phone,Anjali,C1064
+T0727,2026-02-15,2026-02-16,CLOSED,High,Technical,Sync Issue,Chat,Sneha,C2736
+T1154,2026-06-16,2026-06-16, Closed,Low,Billing,Invoice Issue,Email,Priya,C1081
+T0012,2026-03-24,2026-03-24,Closed,High,Billing,Overcharge,Chat,Rahul,C3453
+T1413,2026-06-23,2026-06-24,CLOSED,Medium,Payment,Duplicate Charge,Chat,Priya,C2611
+T0450,2026-08-01,2026-08-03,Closed,Medium,Technical,Sync Issue,Email,Amit,C2898
+T1076,2026-07-19,2026-07-19, Closed,High,Payment,Duplicate Charge,Web,Anjali,C3161
+T0232,2026-01-01,2026-01-01,closed,Low,Login,Password Reset,Chat,Anjali,C2869
+T0427,2026-08-14,,Open ,High,Billing,Billing Cycle Query,Email,Neha,C2425
+T0181,2026-01-12,2026-01-12,closed,Medium,Login,Login Error,Email,Sneha,C4033
+T0932,2026-04-16,2026-04-16, Closed,Medium,Payment,Duplicate Charge,Email,Rahul,C2419
+T0834,2026-02-05,,Open ,Low,Technical,Sync Issue,Web,Anjali,C3663
+T0419,2026-01-11,2026-01-11,CLOSED,Low,Billing,Billing Cycle Query,Email,Karan,C3166
+T0912,2026-08-08,,open,High,Technical,Sync Issue,Chat,Neha,C3050
+T1300,2026-03-22,2026-03-22,closed,Medium,Technical,Sync Issue,Web,Vikram,C3696
+T0439,2026-06-25,2026-06-25,CLOSED,Medium,Account,Subscription Cancel,Chat,Rahul,C2420
+T0479,2026-03-29,2026-03-30, Closed,Medium,Payment,Refund Request,Phone,Vikram,C1270
+T0151,2026-05-28,2026-05-28,closed,High,Billing,Billing Cycle Query,Chat,Neha,C4824
+T0527,2026-01-12,2026-01-14, Closed,Low,Technical,Slow Performance,Chat,Rahul,C2711
+T1009,2026-01-26,2026-01-26,CLOSED,Medium,Login,Account Locked,Web,Neha,C3653
+T0421,2026-07-22,2026-07-22, Closed,Medium,Login,OTP Not Received,Phone,Priya,C1683
+T0141,2026-06-24,,OPEN,Low,Technical,Slow Performance,Phone,Priya,C4319
+T0835,2026-05-12,,OPEN,Low,Technical,Feature Bug,Chat,Anjali,C2502
+T0274,2026-03-23,2026-03-24,Closed,Medium,Technical,Slow Performance,Email,Sneha,C2420
+T1139,2026-07-21,2026-07-21,Closed,Medium,Login,OTP Not Received,Phone,Karan,C3038
+T1213,2026-07-06,2026-07-06,closed,Low,Login,OTP Not Received,Web,Anjali,C2562
+T0295,2026-01-06,,Open,Medium,Payment,Refund Request,Web,Vikram,C3102
+T0129,2026-02-06,2026-02-06,Closed,Medium,Login,Login Error,Email,Sneha,C3943
+T1467,2026-02-03,2026-02-03,Closed,Medium,Account,Email Change,Phone,Karan,C4123
+T0198,2026-02-23,2026-02-23, Closed,High,Account,Update Profile,Web,Rahul,C4938
+T1255,2026-07-25,2026-07-25,Closed,High,Account,Update Profile,Email,Neha,C4113
+T1085,2026-02-06,2026-02-07,Closed,Low,Technical,App Crash,Web,Neha,C1185
+T1321,2026-04-14,2026-04-14,Closed,Low,Billing,Invoice Issue,Web,Karan,C1411
+T1347,2026-02-09,2026-02-10, Closed,High,Technical,App Crash,Chat,Sneha,C1299
+T1234,2026-04-26,2026-04-26,closed,Medium,Billing,Invoice Issue,Email,Anjali,C1712
+T0750,2026-05-28,2026-05-29,Closed,Low,Technical,App Crash,Web,Sneha,C4816
+T1180,2026-06-13,2026-06-13, Closed,Medium,Payment,Card Declined,Web,Vikram,C3075
+T0251,2026-07-20,2026-07-20,closed,High,Billing,Billing Cycle Query,Chat,Karan,C3309
+T1431,2026-03-23,2026-03-24,CLOSED,High,Technical,App Crash,Phone,Anjali,C4487
+T0386,2026-01-31,2026-01-31, Closed,,Billing,Invoice Issue,Phone,Amit,C2872
+T0345,2026-07-29,,open,Low,Payment,Card Declined,Chat,Vikram,C3648
+T1486,2026-04-25,2026-04-25,CLOSED,Low,Payment,Refund Request,Web,Priya,C3500
+T0984,2026-06-10,2026-06-11, Closed,High,,App Crash,Phone,Anjali,C1699
+T0599,2026-05-26,2026-05-26, Closed,High,Account,Delete Account,Web,Amit,C4879
+T0422,2026-04-06,2026-04-06, Closed,Low,Billing,Billing Cycle Query,Web,Neha,C4460
+T0300,2026-06-21,2026-06-21,CLOSED,Medium,Billing,Overcharge,Chat,Anjali,C4713
+T0667,2026-08-02,,Open ,Medium,Technical,Feature Bug,Email,Rahul,C4655
+T0857,2026-07-10,2026-07-10, Closed,High,Login,Account Locked,Email,Vikram,C1103
+T0410,2026-06-02,2026-06-03,Closed,High,Technical,Slow Performance,Email,Anjali,C3819
+T1254,2026-01-14,2026-01-15, Closed,Medium,Billing,Plan Upgrade Error,Phone,Sneha,C2088
+T0577,2026-03-25,2026-03-25, Closed,High,Login,OTP Not Received,Chat,Rahul,C3205
+T0628,2026-05-02,2026-05-04,CLOSED,Medium,Technical,Sync Issue,Web,Vikram,C4641
+T0605,2026-07-01,2026-07-02,closed,Low,Technical,Sync Issue,Chat,Priya,C2299
+T0401,2026-05-24,2026-05-24,closed,Medium,Payment,Payment Failed,Chat,Vikram,C4613
+T0756,2026-05-05,2026-05-06,CLOSED,Low,Payment,Refund Request,Email,Amit,C4509
+T1346,2026-04-07,2026-04-07,CLOSED,High,Account,Subscription Cancel,Email,Amit,C2940
+T0087,2026-02-27,2026-02-27, Closed,Medium,Account,Update Profile,Email,Amit,C4089
+T0221,2026-03-15,2026-03-17,CLOSED,Medium,Technical,Slow Performance,Chat,Amit,C3005
+T1211,2026-07-04,2026-07-04,CLOSED,Low,Login,Account Locked,Web,Sneha,C3046
+T1326,2026-06-07,2026-06-08, Closed,Low,Technical,Feature Bug,Web,Karan,C2020
+T0933,2026-07-05,2026-07-06,closed,Medium,Billing,Overcharge,Chat,Priya,C2525
+T0581,2026-04-13,2026-04-13, Closed,Medium,Account,Email Change,Web,Sneha,C2697
+T1005,2026-03-17,2026-03-18, Closed,Low,Technical,Slow Performance,Web,Sneha,C1725
+T0177,2026-01-16,2026-01-16, Closed,High,Payment,Payment Failed,Web,Priya,C3216
+T0633,2026-03-29,2026-03-29,CLOSED,High,Login,Account Locked,Chat,Anjali,C2056
+T0059,2026-08-12,2026-08-12,CLOSED,Medium,Login,OTP Not Received,Chat,Anjali,C1420
+T0707,2026-05-26,2026-05-26,Closed,Medium,Login,Login Error,Chat,Neha,C4728
+T0731,2026-05-09,2026-05-10,CLOSED,Low,Payment,Refund Request,Email,Rahul,C4529
+T0478,2026-05-23,2026-05-24,CLOSED,Medium,Billing,Overcharge,Phone,Priya,C2334
+T1274,2026-08-08,2026-08-09,Closed,Medium,Technical,Sync Issue,Phone,Amit,C3060
+T0485,2026-02-18,2026-02-19,CLOSED,Medium,Technical,Feature Bug,Chat,Anjali,C1569
+T0237,2026-01-26,2026-01-27,Closed,Medium,Payment,Card Declined,Phone,Sneha,C1355
+T0934,2026-05-31,2026-05-31,Closed,Medium,Login,Password Reset,Email,Karan,C2138
+T0807,2026-01-26,2026-01-26,Closed,High,Technical,Feature Bug,Chat,Rahul,C3471
+T0768,2026-07-29,2026-07-29,Closed,Medium,Account,Email Change,Chat,Priya,C3714
+T0267,2026-08-03,,open,Medium,Login,Account Locked,Phone,Neha,C4830
+T1398,2026-01-17,2026-01-18,Closed,Low,Billing,Plan Upgrade Error,Email,Rahul,C4872
+T0820,2026-04-04,2026-04-04,closed,Medium,,Invoice Issue,Chat,Rahul,C1601
+T0365,2026-01-22,2026-01-23, Closed,Medium,Billing,Billing Cycle Query,Email,Karan,C4879
+T0911,2026-06-16,2026-06-16,Closed,High,Billing,Billing Cycle Query,Web,Rahul,C3642
+T0713,2026-03-17,2026-03-17, Closed,High,Account,Delete Account,Email,Priya,C1725
+T0735,2026-06-30,2026-07-01,Closed,High,Payment,Refund Request,Email,Vikram,C2628
+T1125,2026-07-04,2026-07-04,CLOSED,High,Technical,Slow Performance,Web,Priya,C4910
+T1404,2026-06-04,2026-06-04, Closed,High,Technical,App Crash,Chat,Priya,C1321
+T0999,2026-08-08,2026-08-08,closed,,Login,Login Error,Email,Neha,C1399
+T0545,2026-07-16,2026-07-16,Closed,Medium,Account,Update Profile,Chat,Sneha,C4200
+T0203,2026-01-23,2026-01-23, Closed,Medium,Account,Subscription Cancel,Web,Priya,C1542
+T0532,2026-01-11,2026-01-11,closed,High,Account,Update Profile,Web,Anjali,C3535
+T0160,2026-05-03,2026-05-04,CLOSED,Low,Technical,App Crash,Chat,Neha,C3712
+T0788,2026-06-23,2026-06-23,Closed,High,Login,Account Locked,Email,Sneha,C1213
+T0088,2026-06-13,2026-06-13,closed,Medium,Account,Update Profile,Web,Vikram,C4368
+T0686,2026-03-14,2026-03-14,CLOSED,High,Payment,Duplicate Charge,Email,Sneha,C1810
+T0767,2026-01-12,2026-01-12,CLOSED,Medium,Account,Delete Account,Email,Sneha,C2231
+T0290,2026-07-06,2026-07-06,Closed,High,Login,Account Locked,Phone,Neha,C2103
+T0166,2026-02-21,2026-02-22,CLOSED,Medium,Payment,Card Declined,Phone,Anjali,C3664
+T0948,2026-02-19,2026-02-19,closed,Medium,Billing,Invoice Issue,Phone,Neha,C2102
+T1372,2026-04-15,2026-04-16,Closed,Medium,Payment,Card Declined,Chat,Rahul,C4614
+T0501,2026-07-15,2026-07-15,closed,Low,Login,Password Reset,Chat,Vikram,C3688
+T0947,2026-02-27,2026-02-28, Closed,Low,Payment,Card Declined,Email,Priya,C4926
+T0732,2026-08-15,2026-08-16,Closed,Medium,Technical,Sync Issue,Web,Priya,C2674
+T0591,2026-07-21,2026-07-21,CLOSED,Medium,Account,Update Profile,Email,Rahul,C3829
+T0362,2026-02-28,2026-02-28,CLOSED,Medium,Billing,Invoice Issue,Chat,Anjali,C1678
+T1010,2026-04-13,2026-04-13,closed,Low,Login,Login Error,Phone,Vikram,C3993
+T0990,2026-02-13,2026-02-13,closed,Medium,Billing,Billing Cycle Query,Web,Anjali,C1857
+T0070,2026-01-14,2026-01-14,closed,Medium,Billing,Plan Upgrade Error,Phone,Anjali,C4112
+T0795,2026-06-16,2026-06-16, Closed,Medium,Payment,Duplicate Charge,Web,Neha,C1975
+T1193,2026-07-12,2026-07-12,CLOSED,Low,Billing,Billing Cycle Query,Web,Priya,C2573
+T0931,2026-07-02,2026-07-03,CLOSED,Low,Payment,Card Declined,Web,Sneha,C2816
+T0197,2026-08-11,2026-08-11, Closed,Low,Account,Update Profile,Email,Sneha,C1865
+T0046,2026-04-20,2026-04-20, Closed,Low,Billing,Invoice Issue,Email,Priya,C3632
+T0736,2026-03-20,2026-03-20,Closed,Medium,Payment,Card Declined,Web,Vikram,C3400
+T0078,2026-07-03,2026-07-03,Closed,Low,Login,OTP Not Received,Phone,Neha,C3567
+T0776,2026-04-28,2026-04-28,CLOSED,Low,Login,OTP Not Received,Chat,Vikram,C3894
+T0754,2026-07-11,2026-07-12,Closed,Medium,Payment,Card Declined,Chat,Karan,C1597
+T1363,2026-01-17,2026-01-18, Closed,Medium,Payment,Payment Failed,Chat,Amit,C3756
+T1258,2026-05-19,2026-05-19,closed,Low,Billing,Plan Upgrade Error,Chat,Vikram,C1832
+T1075,2026-06-25,2026-06-25,CLOSED,Medium,Login,Login Error,Chat,Priya,C4142
+T0285,2026-01-21,2026-01-22,closed,Low,Payment,Refund Request,Chat,Rahul,C2734
+T1252,2026-04-11,2026-04-11,CLOSED,Low,Account,Delete Account,Phone,Neha,C2006
+T1231,2026-01-10,2026-01-12,Closed,Low,Technical,Sync Issue,Phone,Rahul,C2556
+T0126,2026-03-23,2026-03-24,CLOSED,Low,Payment,Card Declined,Web,Sneha,C1115
+T0703,2026-06-26,2026-06-26,Closed,High,Account,Update Profile,Chat,Rahul,C4385
+T0993,2026-04-22,2026-04-22, Closed,Low,Login,Account Locked,Web,Amit,C4440
+T0216,2026-04-20,2026-04-21, Closed,Medium,Payment,Refund Request,Chat,Neha,C3293
+T0975,2026-04-13,2026-04-14,CLOSED,Medium,Payment,Payment Failed,Email,Vikram,C3684
+T1042,2026-02-15,2026-02-16,Closed,High,Technical,Feature Bug,Phone,Sneha,C4263
+T0905,2026-05-30,2026-05-30,Closed,Medium,Account,Subscription Cancel,Email,Priya,C4032
+T0008,2026-03-09,2026-03-09,CLOSED,Medium,Account,Delete Account,Phone,Anjali,C1585
+T1002,2026-04-30,2026-04-30,Closed,Medium,Login,OTP Not Received,Web,Priya,C2398
+T1022,2026-07-14,2026-07-14,Closed,High,,Email Change,Chat,Vikram,C3177
+T0170,2026-08-08,2026-08-08, Closed,Medium,Account,Email Change,Chat,Amit,C3502
+T0374,2026-02-07,2026-02-07, Closed,High,Account,Update Profile,Email,Priya,C4372
+T0614,2026-01-06,2026-01-06, Closed,Medium,Login,Login Error,Chat,Vikram,C1365
+T0113,2026-04-23,2026-04-24, Closed,Medium,Technical,Feature Bug,Web,Neha,C1618
+T0794,2026-03-27,2026-03-27,Closed,Medium,Billing,Invoice Issue,Web,Anjali,C2489
+T0294,2026-01-08,2026-01-09,closed,Medium,Billing,Plan Upgrade Error,Web,Priya,C2167
+T0096,2026-04-25,2026-04-25,Closed,Low,Login,Account Locked,Email,Priya,C2950
+T1276,2026-03-04,2026-03-06,closed,Medium,Technical,Slow Performance,Chat,Karan,C2623
+T0883,2026-02-24,2026-02-24, Closed,Low,Account,Update Profile,Email,Neha,C2767
+T1061,2026-02-15,2026-02-16, Closed,High,Payment,Card Declined,Phone,Anjali,C1668
+T0476,2026-02-27,2026-02-28,CLOSED,Medium,Technical,App Crash,Phone,Anjali,C1949
+T1122,2026-08-09,,open,Medium,Payment,Duplicate Charge,Email,Amit,C2317
+T0936,2026-07-12,2026-07-12,Closed,Low,Login,OTP Not Received,Web,Karan,C4318
+T0236,2026-05-16,2026-05-16,closed,Medium,Account,Delete Account,Chat,Amit,C1280
+T0664,2026-04-12,2026-04-12,closed,High,Payment,Duplicate Charge,Email,Karan,C1367
+T0147,2026-08-10,2026-08-10,Closed,High,Payment,Refund Request,Web,Rahul,C4380
+T1345,2026-06-08,2026-06-09,Closed,Medium,Payment,Refund Request,Email,Anjali,C1924
+T0201,2026-06-24,2026-06-24, Closed,High,Technical,Feature Bug,Phone,Vikram,C1760
+T1442,2026-02-04,2026-02-04,Closed,Low,Login,Account Locked,Chat,Priya,C4018
+T0131,2026-01-18,2026-01-19,Closed,Medium,Technical,Sync Issue,Email,Neha,C4229
+T1406,2026-02-06,2026-02-06,Closed,Medium,Account,Email Change,Chat,Neha,C1195
+T0195,2026-04-14,2026-04-14,closed,Low,Account,Email Change,Email,Neha,C4929
+T0109,2026-04-14,2026-04-14,CLOSED,Medium,Billing,Billing Cycle Query,Phone,Karan,C1471
+T0493,2026-06-01,2026-06-01, Closed,High,Account,Email Change,Email,Amit,C4727
+T0944,2026-06-14,2026-06-14,CLOSED,Medium,Payment,Refund Request,Web,Vikram,C1292
+T1132,2026-07-24,2026-07-24,Closed,High,Billing,Invoice Issue,Phone,Karan,C1113
+T0526,2026-05-02,2026-05-02, Closed,Low,Login,Login Error,Phone,Sneha,C3423
+T0503,2026-07-28,2026-07-28, Closed,Medium,Login,Login Error,Email,Karan,C4914
+T0695,2026-03-01,2026-03-02,Closed,Medium,Technical,Sync Issue,Email,Amit,C2809
+T1072,2026-06-30,2026-07-01,Closed,Medium,Technical,Slow Performance,Web,Sneha,C3775
+T1470,2026-08-13,2026-08-13,Closed,Medium,Account,Update Profile,Web,Amit,C4390
+T0168,2026-03-18,2026-03-19,Closed,Low,Technical,Slow Performance,Web,Rahul,C1037
+T1375,2026-01-01,2026-01-02, Closed,Low,Technical,Sync Issue,Email,Vikram,C4754
+T0774,2026-03-23,2026-03-24,CLOSED,Medium,Billing,Plan Upgrade Error,Email,Rahul,C1699
+T0001,2026-07-08,2026-07-08,Closed,Low,Login,Password Reset,Chat,Sneha,C1571
+T1046,2026-03-28,2026-03-28,closed,Low,Account,Update Profile,Web,Vikram,C3689
+T0252,2026-05-19,2026-05-20,Closed,High,,Refund Request,Phone,Rahul,C1954
+T0953,2026-08-10,2026-08-11, Closed,Medium,Technical,App Crash,Email,Amit,C3109
+T0451,2026-02-15,2026-02-16,closed,Medium,Billing,Overcharge,Web,Anjali,C1102
+T1208,2026-06-16,2026-06-16,Closed,Medium,Account,Delete Account,Web,Vikram,C1488
+T0116,2026-07-01,2026-07-01, Closed,Medium,Account,Update Profile,Chat,Rahul,C2014
+T1011,2026-04-20,2026-04-20, Closed,Medium,Technical,Feature Bug,Chat,Priya,C2724
+T0682,2026-05-10,2026-05-10,Closed,Medium,Account,Update Profile,Chat,Rahul,C1972
+T0830,2026-06-24,2026-06-24,closed,Low,Login,Password Reset,Chat,Sneha,C4307
+T1338,2026-03-04,2026-03-04,CLOSED,High,Billing,Plan Upgrade Error,Phone,Sneha,C4646
+T0463,2026-03-18,2026-03-18,CLOSED,Medium,,Account Locked,Web,Priya,C2260
+T0406,2026-07-18,2026-07-18, Closed,Low,Account,Update Profile,Chat,Rahul,C2091
+T0100,2026-05-02,2026-05-03,Closed,Medium,Technical,Sync Issue,Web,Amit,C3813
+T0983,2026-02-02,2026-02-03,closed,Low,Billing,Invoice Issue,Phone,Priya,C2538
+T1313,2026-07-26,2026-07-26, Closed,Medium,Account,Update Profile,Phone,Vikram,C1424
+T1367,2026-04-07,2026-04-07,CLOSED,Medium,Account,Delete Account,Email,Priya,C2924
+T0448,2026-04-27,2026-04-29,closed,Medium,Technical,Sync Issue,Email,Priya,C2849
+T0349,2026-07-23,2026-07-25,Closed,Low,Technical,Sync Issue,Chat,Karan,C3774
+T0512,2026-06-17,2026-06-17,Closed,Low,Billing,Overcharge,Email,Amit,C3002
+T0137,2026-07-25,2026-07-25,closed,Medium,Login,Password Reset,Phone,Neha,C3101
+T0257,2026-03-20,2026-03-20,Closed,High,Account,Subscription Cancel,Web,Sneha,C2851
+T0246,2026-07-02,2026-07-02, Closed,Low,Login,OTP Not Received,Web,Priya,C2077
+T0124,2026-08-05,2026-08-05,Closed,Medium,Account,Update Profile,Web,Priya,C3913
+T0357,2026-02-27,2026-02-27,CLOSED,Medium,Billing,Billing Cycle Query,Chat,Neha,C2607
+T0890,2026-01-25,2026-01-25,CLOSED,Low,Login,OTP Not Received,Chat,Amit,C4175
+T1028,2026-07-11,2026-07-11,Closed,Medium,Account,Email Change,Email,Amit,C4892
+T0245,2026-04-06,2026-04-06,CLOSED,Medium,Login,Account Locked,Web,Karan,C1683
+T1360,2026-04-15,2026-04-17, Closed,Medium,Technical,App Crash,Email,Anjali,C1217
+T0859,2026-03-14,2026-03-14,closed,High,Billing,Invoice Issue,Email,Priya,C1580
+T0412,2026-06-26,2026-06-26,closed,Low,Billing,Plan Upgrade Error,Phone,Sneha,C1087
+T0833,2026-03-17,2026-03-17,CLOSED,High,Login,Login Error,Web,Amit,C4825
+T0038,2026-07-26,2026-07-26,Closed,High,Billing,Plan Upgrade Error,Chat,Karan,C1920
+T1394,2026-01-19,2026-01-19, Closed,Medium,Billing,Billing Cycle Query,Web,Vikram,C3581
+T0281,2026-04-12,2026-04-12,CLOSED,Medium,Account,Update Profile,Email,Karan,C4214
+T0445,2026-08-05,2026-08-05,CLOSED,High,Login,OTP Not Received,Phone,Amit,C3057
+T0293,2026-04-06,2026-04-07, Closed,Medium,Technical,Feature Bug,Email,Rahul,C1990
+T1000,2026-06-20,2026-06-20,Closed,Low,Account,Delete Account,Web,Rahul,C4852
+T0566,2026-01-04,2026-01-05,Closed,Low,Technical,Slow Performance,Phone,Neha,C1734
+T0551,2026-05-06,2026-05-06,Closed,High,Account,Subscription Cancel,Web,Vikram,C1734
+T0502,2026-06-20,2026-06-21,CLOSED,Medium,Technical,App Crash,Web,Vikram,C3835
+T0296,2026-04-07,2026-04-08,closed,High,Payment,Payment Failed,Web,Karan,C2735
+T0292,2026-01-09,2026-01-09,CLOSED,High,Billing,Invoice Issue,Chat,Rahul,C2021
+T1040,2026-04-05,2026-04-05, Closed,High,Account,Delete Account,Phone,Priya,C4898
+T0209,2026-05-25,2026-05-27,closed,Low,Technical,Sync Issue,Phone,Neha,C1466
+T1485,2026-05-27,2026-05-28,closed,Medium,Payment,Refund Request,Email,Anjali,C2965
+T0997,2026-06-11,2026-06-11,closed,Medium,Account,Email Change,Email,Anjali,C3488
+T0437,2026-03-16,2026-03-17,closed,Medium,Technical,Sync Issue,Web,Priya,C1078
+T0604,2026-06-21,2026-06-21,Closed,High,Billing,Invoice Issue,Phone,Karan,C2616
+T0186,2026-04-07,2026-04-07,Closed,High,Technical,Sync Issue,Chat,Rahul,C2099
+T0900,2026-04-17,2026-04-17,CLOSED,Medium,Account,Delete Account,Chat,Karan,C1555
+T1488,2026-06-25,2026-06-25, Closed,High,Login,OTP Not Received,Email,Sneha,C2512
+T1026,2026-04-28,2026-04-29,closed,Medium,Payment,Refund Request,Phone,Karan,C2414
+T0291,2026-07-22,2026-07-24,CLOSED,Low,Technical,Feature Bug,Web,Rahul,C3110
+T0507,2026-05-18,2026-05-18,CLOSED,High,Login,Account Locked,Phone,Priya,C3323
+T0852,2026-04-06,2026-04-06,CLOSED,Medium,Account,Subscription Cancel,Phone,Rahul,C4848
+T1400,2026-01-05,2026-01-06,CLOSED,Low,Payment,Payment Failed,Chat,Karan,C2106
+T0996,2026-06-15,2026-06-15, Closed,Medium,Account,Email Change,Email,Karan,C1137
+T1209,2026-07-25,2026-07-25,closed,High,Billing,Billing Cycle Query,Email,Rahul,C2587
+T0178,2026-04-07,2026-04-08,closed,Medium,Payment,Card Declined,Phone,Anjali,C4561
+T1088,2026-05-01,2026-05-01,closed,High,Billing,Plan Upgrade Error,Email,Neha,C1116
+T0653,2026-06-09,2026-06-10, Closed,High,Technical,Feature Bug,Web,Priya,C4276
+T0864,2026-07-27,2026-07-27, Closed,Low,Login,OTP Not Received,Web,Anjali,C4052
+T0716,2026-03-28,2026-03-28,Closed,High,Payment,Refund Request,Phone,Rahul,C1059
+T1196,2026-07-24,2026-07-24,closed,Medium,Billing,Invoice Issue,Email,Sneha,C3144
+T1250,2026-06-06,2026-06-07,CLOSED,Medium,Technical,Sync Issue,Phone,Sneha,C4147
+T0335,2026-07-20,2026-07-21,Closed,Medium,Payment,Duplicate Charge,Chat,Rahul,C3828
+T0597,2026-01-22,2026-01-23,closed,Medium,Technical,Slow Performance,Web,Karan,C1813
+T1194,2026-02-06,2026-02-06,Closed,Medium,Account,Update Profile,Chat,Karan,C3915
+T0315,2026-01-29,2026-01-29,closed,High,Technical,Sync Issue,Email,Priya,C4714
+T0321,2026-06-30,2026-07-01,closed,High,Technical,Feature Bug,Web,Neha,C1050
+T0154,2026-05-10,2026-05-11,CLOSED,Medium,Billing,Overcharge,Web,Priya,C2582
+T0278,2026-06-17,2026-06-17, Closed,Medium,Login,OTP Not Received,Phone,Rahul,C2766
+T0636,2026-08-06,2026-08-06, Closed,Medium,Login,Account Locked,Web,Amit,C1503
+T0033,2026-01-08,2026-01-08,CLOSED,Medium,Account,Email Change,Phone,Neha,C4847
+T0546,2026-06-20,2026-06-20,closed,High,Login,Login Error,Web,Rahul,C4720
+T1006,2026-08-02,2026-08-02,closed,Low,Account,Email Change,Phone,Amit,C1150
+T0358,2026-05-12,2026-05-13,closed,Medium,Technical,Sync Issue,Chat,Amit,C4101
+T0314,2026-04-15,2026-04-16,Closed,Low,Payment,Refund Request,Chat,Neha,C3881
+T1484,2026-05-23,2026-05-24,Closed,Medium,Technical,Feature Bug,Phone,Vikram,C3469
+T0870,2026-03-23,2026-03-23,Closed,Medium,Login,Login Error,Phone,Neha,C4331
+T0514,2026-08-02,,Open ,Low,Payment,Payment Failed,Phone,Neha,C4323
+T0595,2026-06-14,2026-06-15, Closed,Medium,Billing,Plan Upgrade Error,Email,Rahul,C3627
+T0832,2026-06-10,2026-06-11,Closed,High,Technical,Slow Performance,Email,Amit,C3322
+T0760,2026-01-14,2026-01-15,CLOSED,High,Payment,Payment Failed,Phone,Amit,C4870
+T0179,2026-01-06,2026-01-07, Closed,Medium,Billing,Billing Cycle Query,Chat,Rahul,C4097
+T1393,2026-07-15,2026-07-16,closed,High,Technical,Sync Issue,Chat,Vikram,C3418
+T0705,2026-07-10,2026-07-11,closed,Low,Technical,Slow Performance,Chat,Vikram,C2958
+T0987,2026-04-28,2026-04-28,Closed,Low,Login,OTP Not Received,Chat,Priya,C3202
+T1156,2026-01-06,2026-01-06,CLOSED,Low,Payment,Card Declined,Chat,Neha,C4031
+T1067,2026-05-09,2026-05-10,CLOSED,Medium,Technical,Sync Issue,Chat,Sneha,C3529
+T0950,2026-05-26,,open,Medium,Account,Subscription Cancel,Phone,Vikram,C1941
+T0717,2026-05-24,2026-05-25,closed,High,Payment,Refund Request,Email,Neha,C2321
+T1487,2026-05-19,2026-05-19, Closed,High,Payment,Payment Failed,Email,Anjali,C4357
+T1497,2026-01-17,2026-01-17,closed,High,Billing,Billing Cycle Query,Phone,Karan,C1621
+T0615,2026-06-25,2026-06-26,CLOSED,Medium,Payment,Payment Failed,Phone,Karan,C4701
+T1318,2026-05-16,2026-05-17, Closed,Medium,Payment,Duplicate Charge,Phone,Priya,C4994
+T0641,2026-05-20,2026-05-20, Closed,Low,Account,Delete Account,Phone,Sneha,C4635
+T0347,2026-01-02,2026-01-02,Closed,Medium,Technical,Feature Bug,Phone,Priya,C3190
+T0148,2026-03-04,2026-03-06,CLOSED,Medium,Technical,App Crash,Web,Karan,C2978
+T0202,2026-07-20,2026-07-21, Closed,High,Payment,Payment Failed,Chat,Vikram,C3915
+T1153,2026-03-01,2026-03-02,Closed,Medium,Payment,Duplicate Charge,Chat,Priya,C3802
+T0538,2026-06-20,2026-06-22, Closed,Medium,Technical,Sync Issue,Web,Anjali,C3430
+T0968,2026-01-30,2026-01-30, Closed,High,Payment,Card Declined,Phone,Neha,C3705
+T1397,2026-01-30,2026-01-31,closed,Low,Technical,Feature Bug,Phone,Priya,C1225
+T0385,2026-07-12,2026-07-13,Closed,Medium,Billing,Plan Upgrade Error,Web,Vikram,C1909
+T0563,2026-05-10,2026-05-11,closed,Low,Billing,Invoice Issue,Email,Sneha,C4770
+T0649,2026-07-11,2026-07-11,CLOSED,Medium,Billing,Invoice Issue,Phone,Anjali,C1133
+T0831,2026-04-03,2026-04-03, Closed,Medium,Billing,Plan Upgrade Error,Chat,Neha,C2191
+T0015,2026-02-27,2026-02-27,Closed,,Account,Subscription Cancel,Phone,Priya,C2015
+T0330,2026-04-21,2026-04-22,closed,Low,Billing,Overcharge,Email,Rahul,C3266
+T1368,2026-05-23,2026-05-23,closed,Low,Billing,Invoice Issue,Email,Neha,C1988
+T1240,2026-05-24,2026-05-24,closed,Medium,Account,Email Change,Chat,Vikram,C1474
+T0544,2026-05-22,2026-05-22,Closed,Low,Account,Update Profile,Email,Amit,C3777
+T0765,2026-06-18,2026-06-18,closed,High,Billing,Billing Cycle Query,Email,Sneha,C4955
+T1285,2026-07-06,2026-07-07,CLOSED,High,Technical,App Crash,Phone,Neha,C3526
+T0531,2026-06-25,2026-06-25,CLOSED,Medium,Login,OTP Not Received,Web,Sneha,C4226
+T1090,2026-05-01,2026-05-02,CLOSED,High,Technical,Feature Bug,Email,Karan,C2950
+T1172,2026-06-27,2026-06-28, Closed,Low,Technical,Slow Performance,Phone,Vikram,C1147
+T1233,2026-05-10,2026-05-11,closed,High,Payment,Card Declined,Chat,Rahul,C4831
+T0305,2026-07-18,2026-07-18,closed,High,Account,Update Profile,Web,Sneha,C4117
+T0238,2026-01-22,2026-01-22,CLOSED,Low,Technical,Sync Issue,Chat,Karan,C3640
+T0067,2026-06-16,2026-06-16,CLOSED,Low,Account,Update Profile,Chat,Anjali,C3125
+T0966,2026-03-18,2026-03-20, Closed,Medium,Technical,Slow Performance,Phone,Amit,C4595
+T0915,2026-06-08,2026-06-08,Closed,High,Billing,Plan Upgrade Error,Web,Neha,C3394
+T0854,2026-04-11,2026-04-11, Closed,Low,Account,Delete Account,Phone,Sneha,C3276
+T1424,2026-05-27,2026-05-27,closed,Low,Billing,Plan Upgrade Error,Chat,Sneha,C3237
+T0590,2026-03-13,,OPEN,Medium,Login,OTP Not Received,Phone,Sneha,C4945
+T1214,2026-04-17,2026-04-18,CLOSED,Low,Payment,Card Declined,Web,Priya,C2146
+T1115,2026-04-14,2026-04-15, Closed,Low,Payment,Duplicate Charge,Email,Priya,C3619
+T1212,2026-06-07,2026-06-08,Closed,Medium,Payment,Card Declined,Web,Sneha,C1318
+T0490,2026-01-14,2026-01-14,Closed,High,Billing,Invoice Issue,Email,Karan,C3511
+T0875,2026-07-27,2026-07-27,Closed,High,Account,Subscription Cancel,Email,Sneha,C3965
+T1395,2026-07-12,2026-07-13,closed,Low,Payment,Refund Request,Web,Neha,C4783
+T1365,2026-08-12,2026-08-13, Closed,High,Technical,Slow Performance,Web,Priya,C2892
+T0017,2026-01-25,2026-01-25, Closed,High,Billing,Billing Cycle Query,Phone,Vikram,C1779
+T1191,2026-03-25,2026-03-25,CLOSED,Medium,Login,Login Error,Chat,Sneha,C4868
+T0558,2026-07-28,2026-07-28,closed,High,Billing,Plan Upgrade Error,Web,Rahul,C4049
+T0613,2026-01-13,2026-01-14,Closed,Low,Technical,Sync Issue,Chat,Sneha,C4535
+T0325,2026-04-14,2026-04-15,Closed,Medium,Technical,Feature Bug,Phone,Rahul,C1420
+T0226,2026-02-22,2026-02-22,CLOSED,High,Account,Subscription Cancel,Chat,Sneha,C4332
+T0133,2026-05-20,2026-05-21,Closed,Medium,Payment,Payment Failed,Web,Vikram,C4339
+T0969,2026-05-10,2026-05-10, Closed,Medium,Technical,Feature Bug,Email,Karan,C2097
+T0508,2026-04-28,2026-04-28,CLOSED,Medium,Login,OTP Not Received,Web,Priya,C4445
+T0352,2026-03-26,2026-03-26,closed,Medium,Account,Update Profile,Chat,Anjali,C4897
+T1459,2026-06-01,2026-06-01,Closed,Low,Billing,Billing Cycle Query,Email,Sneha,C3813
+T0758,2026-07-01,2026-07-01,closed,High,Billing,Billing Cycle Query,Web,Rahul,C4480
+T0495,2026-07-07,2026-07-08,CLOSED,Medium,Technical,Slow Performance,Chat,Sneha,C3366
+T0356,2026-06-01,2026-06-01,Closed,Low,Login,Password Reset,Email,Vikram,C4150
+T0860,2026-05-05,2026-05-06, Closed,High,Payment,Card Declined,Email,Vikram,C1301
+T1452,2026-02-11,2026-02-12,closed,High,Technical,Feature Bug,Chat,Anjali,C1286
+T0616,2026-05-25,2026-05-26,Closed,Medium,Payment,Card Declined,Phone,Anjali,C2099
+T0114,2026-04-05,2026-04-05,Closed,Medium,Account,Update Profile,Phone,Rahul,C1233
+T0328,2026-02-05,2026-02-05, Closed,Low,Account,Email Change,Email,Amit,C3016
+T1463,2026-07-15,2026-07-16,Closed,Medium,Payment,Card Declined,Web,Priya,C1612
+T0578,2026-05-27,2026-05-28, Closed,Low,Technical,App Crash,Phone,Vikram,C2320
+T0428,2026-05-15,2026-05-16,closed,Medium,Payment,Payment Failed,Phone,Rahul,C2248
+T1286,2026-07-28,2026-07-28, Closed,Medium,Account,Email Change,Web,Sneha,C1926
+T0011,2026-07-04,2026-07-04,closed,Medium,Account,Update Profile,Chat,Anjali,C1013
+T0869,2026-06-04,2026-06-05,closed,Low,Technical,Sync Issue,Email,Vikram,C2161
+T0366,2026-07-05,2026-07-06, Closed,Low,Billing,Overcharge,Chat,Karan,C1686
+T0680,2026-05-04,2026-05-04, Closed,Medium,Billing,Overcharge,Web,Neha,C2724
+T0620,2026-07-09,2026-07-09,closed,Medium,Billing,Plan Upgrade Error,Email,Rahul,C1466
+T0991,2026-01-14,2026-01-15, Closed,High,Payment,Refund Request,Email,Neha,C1318
+T0139,2026-03-13,2026-03-13,Closed,Medium,Login,Account Locked,Phone,Neha,C3660
+T1438,2026-08-13,,Open,High,Payment,Refund Request,Chat,Amit,C3632
+T0826,2026-06-02,2026-06-02,CLOSED,Medium,Login,Account Locked,Email,Priya,C1867
+T0540,2026-02-14,2026-02-14,closed,Low,Payment,Refund Request,Web,Amit,C4986
+T0901,2026-05-15,2026-05-17,CLOSED,Medium,Technical,Slow Performance,Phone,Priya,C1567
+T0275,2026-04-09,2026-04-09, Closed,Medium,Payment,Payment Failed,Email,Rahul,C1197
+T1370,2026-07-01,2026-07-01,closed,Low,Account,Delete Account,Web,Neha,C4618
+T0598,2026-01-23,2026-01-23,closed,High,Billing,Overcharge,Email,Sneha,C4714
+T0882,2026-01-05,2026-01-05,Closed,High,Account,Update Profile,Email,Priya,C1985
+T1386,2026-05-27,2026-05-27,Closed,Medium,Login,Password Reset,Email,Karan,C2170
+T1150,2026-02-09,2026-02-10,CLOSED,Low,Payment,Refund Request,Email,Rahul,C4885
+T0173,2026-02-26,2026-02-27,closed,Medium,Billing,Plan Upgrade Error,Web,Neha,C3517
+T1111,2026-07-21,2026-07-21, Closed,Low,Account,Subscription Cancel,Email,Neha,C3650
+T0056,2026-05-22,2026-05-23, Closed,Medium,Payment,Card Declined,Web,Neha,C2938
+T1410,2026-01-30,2026-01-31,CLOSED,Low,Payment,Card Declined,Chat,Sneha,C4590
+T0456,2026-02-17,2026-02-17,CLOSED,Low,Login,Account Locked,Web,Sneha,C1200
+T0303,2026-06-24,2026-06-24,CLOSED,Medium,Billing,Invoice Issue,Chat,Priya,C4553
+T1249,2026-02-18,2026-02-18,CLOSED,Medium,Account,Delete Account,Web,Sneha,C3318
+T0146,2026-05-22,2026-05-23,CLOSED,Low,Billing,Plan Upgrade Error,Web,Sneha,C3601
+T0020,2026-04-10,2026-04-11, Closed,Low,Payment,Card Declined,Chat,Vikram,C1008
+T1025,2026-07-07,2026-07-08, Closed,Medium,Technical,Sync Issue,Email,Priya,C2463
+T1376,2026-05-15,2026-05-15,CLOSED,Medium,Login,Password Reset,Email,Priya,C4566
+T1092,2026-03-06,2026-03-07,CLOSED,Low,Technical,Sync Issue,Email,Sneha,C1926
+T0684,2026-01-01,2026-01-01,closed,Low,Login,Login Error,Email,Anjali,C1898
+T1017,2026-04-03,2026-04-03,Closed,Low,Login,Account Locked,Chat,Sneha,C2511
+T1166,2026-07-13,2026-07-13, Closed,Low,Account,Delete Account,Chat,Anjali,C1397
+T0941,2026-08-11,2026-08-11,closed,Medium,Account,Update Profile,Web,Karan,C2063
+T1439,2026-05-14,2026-05-14, Closed,High,Login,Account Locked,Web,Anjali,C1138
+T0105,2026-06-08,2026-06-08,Closed,Low,Account,Update Profile,Chat,Amit,C4090
+T0029,2026-01-11,2026-01-12,Closed,Low,Payment,Payment Failed,Chat,Vikram,C1522
+T1012,2026-03-27,2026-03-27,Closed,Low,Account,Delete Account,Chat,Amit,C3717
+T1167,2026-01-06,,OPEN,Low,Login,OTP Not Received,Chat,Anjali,C4661
+T0044,2026-04-01,2026-04-02, Closed,Low,Technical,App Crash,Phone,Anjali,C1024
+T1128,2026-07-18,2026-07-18,closed,Low,Login,Login Error,Chat,Sneha,C3463
+T0333,2026-01-30,2026-01-30, Closed,Low,Account,Delete Account,Chat,Neha,C3909
+T0342,2026-03-30,2026-03-30,closed,Low,Billing,Billing Cycle Query,Email,Priya,C3739
+T0844,2026-06-20,2026-06-21,closed,Medium,Technical,App Crash,Chat,Priya,C3960
+T0035,2026-03-22,2026-03-22,Closed,Medium,Billing,Overcharge,Email,Neha,C3552
+T0010,2026-05-22,2026-05-24,Closed,Medium,Technical,Feature Bug,Phone,Karan,C4977
+T0958,2026-03-13,2026-03-13,CLOSED,High,Payment,Refund Request,Chat,Vikram,C3126
+T0211,2026-05-10,2026-05-11, Closed,High,Technical,Feature Bug,Phone,Vikram,C3188
+T0909,2026-07-09,2026-07-10,closed,High,Payment,Payment Failed,Chat,Amit,C3095
+T0407,2026-04-24,2026-04-25,Closed,High,Technical,App Crash,Chat,Vikram,C4158
+T1358,2026-03-29,2026-03-29,CLOSED,Low,Login,OTP Not Received,Phone,Neha,C3607
+T0082,2026-03-30,2026-03-31, Closed,Medium,Technical,Sync Issue,Chat,Priya,C2809
+T0631,2026-07-23,2026-07-24, Closed,High,Technical,Slow Performance,Chat,Anjali,C1413
+T0988,2026-03-14,2026-03-14,CLOSED,Medium,Account,Delete Account,Email,Sneha,C2124
+T0460,2026-06-26,2026-06-26,CLOSED,Medium,Login,Password Reset,Email,Anjali,C3965
+T0621,2026-07-26,2026-07-27,closed,Medium,Technical,Sync Issue,Phone,Anjali,C3555
+T0959,2026-03-08,2026-03-08,closed,Medium,Account,Email Change,Chat,Amit,C2181
+T0052,2026-02-09,2026-02-10,CLOSED,High,Technical,Feature Bug,Web,Anjali,C3897
+T0284,2026-08-07,2026-08-07,closed,Medium,Billing,Overcharge,Email,Vikram,C4697
+T0455,2026-05-31,2026-05-31, Closed,Medium,Billing,Invoice Issue,Phone,Sneha,C1888
+T0457,2026-04-17,2026-04-18,CLOSED,Medium,Billing,Plan Upgrade Error,Email,Rahul,C1446
+T0815,2026-04-09,2026-04-09, Closed,High,Account,Delete Account,Chat,Amit,C4143
+T0797,2026-07-02,2026-07-03,CLOSED,High,Payment,Refund Request,Chat,Vikram,C3254
+T0339,2026-04-30,2026-04-30,closed,High,Billing,Plan Upgrade Error,Web,Rahul,C2353
+T0049,2026-06-05,2026-06-05,Closed,Medium,Login,Account Locked,Web,Neha,C1687
+T0554,2026-06-10,2026-06-10,Closed,Medium,Account,Update Profile,Email,Sneha,C4139
+T0805,2026-02-16,2026-02-17,closed,High,Technical,Sync Issue,Phone,Priya,C3031
+T0611,2026-06-24,2026-06-25,CLOSED,Low,Technical,App Crash,Email,Karan,C3790
+T0306,2026-05-03,2026-05-04,Closed,Medium,Payment,Card Declined,Phone,Vikram,C4953
+T0392,2026-05-28,2026-05-28,closed,Medium,Account,Update Profile,Web,Sneha,C3362
+T0234,2026-01-20,2026-01-22,closed,,Technical,App Crash,Email,Sneha,C2953
+T0326,2026-07-31,2026-07-31,closed,Medium,Account,Delete Account,Phone,Neha,C2488
+T0745,2026-04-24,2026-04-24, Closed,Medium,Account,Update Profile,Email,Neha,C3776
+T0311,2026-01-13,2026-01-13,Closed,Low,Login,Login Error,Web,Rahul,C3432
+T1494,2026-05-29,2026-05-29,CLOSED,Low,Account,Delete Account,Web,Priya,C4236
+T1190,2026-07-05,2026-07-05,closed,Medium,Billing,Billing Cycle Query,Chat,Karan,C2397
+T0949,2026-07-07,2026-07-07,Closed,Medium,Account,Delete Account,Email,Sneha,C2822
+T1188,2026-06-20,2026-06-21,Closed,Low,Technical,Feature Bug,Chat,Anjali,C4969
+T0956,2026-06-16,2026-06-16,CLOSED,High,Billing,Invoice Issue,Email,Neha,C3760
+T1391,2026-06-05,2026-06-06,CLOSED,Low,Technical,Slow Performance,Web,Sneha,C3129
+T1328,2026-02-25,2026-02-26,Closed,Low,,Payment Failed,Phone,Amit,C4953
+T1080,2026-04-23,2026-04-23, Closed,Low,Payment,Refund Request,Email,Amit,C4594
+T1238,2026-05-23,2026-05-23,Closed,Medium,Account,Update Profile,Email,Karan,C2787
+T1468,2026-02-01,2026-02-02,closed,High,Payment,Payment Failed,Phone,Rahul,C2730
+T0459,2026-08-09,2026-08-10, Closed,Medium,Billing,Invoice Issue,Chat,Priya,C3845
+T1485,2026-05-27,2026-05-28,closed,Medium,Payment,Refund Request,Email,Anjali,C2965
+T0040,2026-03-05,2026-03-06,closed,High,Technical,Slow Performance,Phone,Rahul,C3283
+T0775,2026-05-12,2026-05-13,closed,Medium,Technical,Feature Bug,Web,Rahul,C3812
+T0559,2026-07-15,2026-07-16, Closed,High,Payment,Refund Request,Email,Vikram,C3829
+T0280,2026-06-19,2026-06-19, Closed,High,Login,OTP Not Received,Email,Karan,C4374
+T0416,2026-03-24,2026-03-24,Closed,Medium,Billing,Overcharge,Web,Vikram,C3625
+T1044,2026-07-18,2026-07-20,Closed,Low,Technical,App Crash,Web,Priya,C3931
+T1224,2026-01-27,2026-01-29,CLOSED,Low,Technical,App Crash,Email,Rahul,C3128
+T1078,2026-07-17,2026-07-18,CLOSED,Low,Technical,Slow Performance,Web,Amit,C1773
+T1333,2026-04-10,2026-04-11, Closed,Medium,Technical,Slow Performance,Web,Anjali,C4946
+T1226,2026-06-27,2026-06-27,Closed,Medium,Login,Account Locked,Phone,Amit,C4417
+T0248,2026-02-08,2026-02-08,Closed,High,Login,Account Locked,Web,Vikram,C4769
+T1130,2026-04-21,2026-04-21,closed,High,Account,Delete Account,Web,Amit,C3896
+T0676,2026-01-16,2026-01-16,Closed,Low,Billing,Billing Cycle Query,Phone,Priya,C1350
+T1415,2026-02-10,2026-02-10,Closed,High,Billing,Plan Upgrade Error,Web,Rahul,C4903
+T0369,2026-05-31,,Open,High,Billing,Billing Cycle Query,Phone,Vikram,C2435
+T0638,2026-04-15,,OPEN,Low,Billing,Billing Cycle Query,Chat,Vikram,C2693
+T1235,2026-05-05,2026-05-05, Closed,Low,Login,Account Locked,Email,Sneha,C2974
+T1159,2026-03-20,2026-03-21,closed,Low,Billing,Plan Upgrade Error,Phone,Neha,C3637
+T0071,2026-05-22,2026-05-22, Closed,Low,Login,Password Reset,Chat,Amit,C2272
+T1456,2026-04-10,2026-04-10,CLOSED,High,Login,Account Locked,Web,Sneha,C4778
+T1245,2026-06-07,2026-06-07, Closed,Medium,Account,Subscription Cancel,Chat,Amit,C2963
+T0806,2026-04-11,2026-04-11,closed,High,Payment,Duplicate Charge,Chat,Amit,C4348
+T0704,2026-01-15,2026-01-16,Closed,High,Technical,Sync Issue,Web,Priya,C2862
+T0575,2026-07-27,2026-07-27,Closed,Medium,Login,Password Reset,Chat,Neha,C2428
+T0361,2026-02-27,2026-02-28,CLOSED,Medium,Technical,Feature Bug,Email,Karan,C2541
+T1200,2026-03-25,2026-03-26,Closed,Medium,Technical,App Crash,Web,Vikram,C1729
+T1382,2026-03-29,2026-03-30, Closed,Low,Payment,Payment Failed,Chat,Karan,C4676
+T1259,2026-03-03,2026-03-03,closed,High,Account,Subscription Cancel,Chat,Vikram,C1905
+T0265,2026-02-16,2026-02-16,closed,Medium,Billing,Billing Cycle Query,Web,Vikram,C2107
+T0037,2026-04-24,2026-04-24, Closed,High,Account,Email Change,Web,Anjali,C2809
+T0683,2026-06-27,2026-06-28,CLOSED,Medium,Payment,Payment Failed,Phone,Anjali,C3456
+T1311,2026-01-22,2026-01-22,Closed,Medium,Login,Login Error,Phone,Karan,C4217
+T0085,2026-04-23,2026-04-24,CLOSED,Low,Payment,Payment Failed,Email,Karan,C4230
+T0552,2026-06-25,2026-06-25,Closed,Medium,Login,OTP Not Received,Phone,Karan,C3572
+T0319,2026-06-28,2026-06-29,closed,Low,Technical,Feature Bug,Chat,Priya,C1542
+T0920,2026-02-23,2026-02-23, Closed,Medium,Account,Delete Account,Phone,Sneha,C4409
+T0486,2026-08-15,2026-08-15, Closed,High,Payment,Refund Request,Email,Amit,C3954
+T1215,2026-06-12,2026-06-13,Closed,Medium,Payment,Duplicate Charge,Chat,Priya,C4765
+T0528,2026-07-12,2026-07-13, Closed,Medium,Technical,App Crash,Chat,Priya,C3287
+T1483,2026-04-12,2026-04-13, Closed,Low,Billing,Invoice Issue,Web,Anjali,C4806
+T0091,2026-01-26,2026-01-26,CLOSED,Medium,Billing,Billing Cycle Query,Chat,Vikram,C3682
+T0814,2026-02-07,2026-02-07, Closed,Low,Login,Password Reset,Chat,Amit,C2311
+T1179,2026-07-14,2026-07-15,closed,Medium,Payment,Refund Request,Chat,Priya,C3878
+T1353,2026-06-24,2026-06-24,CLOSED,,Technical,App Crash,Web,Anjali,C1674
+T0747,2026-06-22,,Open ,High,Billing,Invoice Issue,Email,Karan,C4409
+T0264,2026-06-14,2026-06-14,Closed,Medium,Login,Password Reset,Chat,Vikram,C1816
+T0610,2026-01-02,2026-01-03,closed,Low,Payment,Refund Request,Web,Sneha,C3390
+T0135,2026-04-19,2026-04-21,closed,Low,Technical,Sync Issue,Web,Priya,C3978
+T1136,2026-04-04,2026-04-05, Closed,Low,Technical,Feature Bug,Email,Neha,C2008
+T1388,2026-05-25,2026-05-26,Closed,Medium,Billing,Plan Upgrade Error,Chat,Amit,C2353
+T0219,2026-08-05,2026-08-05,closed,Medium,Account,Subscription Cancel,Email,Neha,C2441
+T1361,2026-01-13,2026-01-13,CLOSED,High,Login,Account Locked,Email,Karan,C4284
+T1369,2026-06-25,2026-06-26,CLOSED,Medium,Technical,App Crash,Web,Rahul,C2186
+T0974,2026-05-05,2026-05-05,CLOSED,Low,Login,Password Reset,Email,Vikram,C4241
+T0424,2026-02-26,2026-02-26,CLOSED,Medium,Billing,Invoice Issue,Web,Rahul,C2230
+T0480,2026-06-01,2026-06-01,CLOSED,High,Account,Delete Account,Email,Anjali,C1468
+T1381,2026-08-12,2026-08-12, Closed,Medium,Login,Account Locked,Phone,Priya,C4351
+T0913,2026-07-04,2026-07-05, Closed,High,Technical,App Crash,Chat,Neha,C3686
+T0994,2026-04-04,2026-04-04,CLOSED,Medium,Billing,Billing Cycle Query,Chat,Rahul,C4547
+T0662,2026-02-13,2026-02-14, Closed,,Billing,Overcharge,Chat,Neha,C3213
+T0692,2026-05-29,2026-05-29,Closed,Low,Account,Subscription Cancel,Phone,Anjali,C2099
+T0845,2026-08-10,2026-08-10, Closed,,Account,Update Profile,Phone,Amit,C3045
+T1414,2026-05-27,2026-05-27, Closed,Medium,Account,Subscription Cancel,Email,Amit,C1297
+T0712,2026-01-18,2026-01-19,closed,Medium,Payment,Duplicate Charge,Phone,Anjali,C2889
+T0320,2026-01-08,2026-01-08,closed,High,Billing,Billing Cycle Query,Phone,Neha,C3504
+T0588,2026-02-01,2026-02-01,CLOSED,Medium,Login,OTP Not Received,Email,Sneha,C3456
+T0517,2026-07-26,,Open ,Low,Login,Account Locked,Web,Vikram,C3840
+T1449,2026-05-22,2026-05-23,closed,Medium,Technical,Sync Issue,Email,Karan,C1967
+T1354,2026-02-12,2026-02-12,Closed,Low,Login,Password Reset,Email,Priya,C2320
+T0263,2026-06-08,2026-06-08,CLOSED,Medium,Account,Email Change,Chat,Rahul,C3515
+T0496,2026-06-30,2026-07-01,CLOSED,Medium,Technical,Sync Issue,Chat,Vikram,C3799
+T1223,2026-06-11,2026-06-12,closed,Medium,Payment,Payment Failed,Chat,Neha,C3212
+T0850,2026-07-11,2026-07-11,Closed,Medium,Login,Password Reset,Phone,Priya,C3033
+T0835,2026-05-12,,OPEN,Low,Technical,Feature Bug,Chat,Anjali,C2502
+T0608,2026-01-10,2026-01-11,closed,High,Technical,App Crash,Email,Sneha,C1750
+T1475,2026-07-04,2026-07-04,CLOSED,Medium,Login,OTP Not Received,Chat,Rahul,C4557
+T0073,2026-06-03,2026-06-04,closed,Medium,Payment,Card Declined,Phone,Sneha,C4775
+T0474,2026-06-22,2026-06-22, Closed,High,Account,Subscription Cancel,Email,Anjali,C4699
+T1052,2026-03-21,2026-03-22,closed,High,Technical,Feature Bug,Email,Neha,C1920
+T1203,2026-02-10,2026-02-11,CLOSED,Medium,Technical,Slow Performance,Email,Sneha,C2837
+T1283,2026-07-31,,Open ,Medium,Payment,Refund Request,Chat,Vikram,C4274
+T0723,2026-01-10,2026-01-11, Closed,High,Technical,Sync Issue,Phone,Sneha,C3629
+T0873,2026-03-30,2026-03-30,CLOSED,Low,Login,Login Error,Web,Neha,C4087
+T0762,2026-06-17,2026-06-17,Closed,Low,Login,Login Error,Phone,Karan,C3590
+T0452,2026-05-15,2026-05-16,closed,High,Payment,Payment Failed,Phone,Neha,C1349
+T1409,2026-05-20,2026-05-21, Closed,Medium,Payment,Duplicate Charge,Phone,Amit,C3345
+T1018,2026-03-19,2026-03-19,CLOSED,High,Login,Account Locked,Chat,Rahul,C1865
+T0477,2026-01-29,2026-01-29, Closed,Medium,Account,Email Change,Email,Priya,C2946
+T0083,2026-03-17,2026-03-18, Closed,High,,Feature Bug,Phone,Neha,C3354
+T0438,2026-05-09,2026-05-09,Closed,Low,Account,Subscription Cancel,Email,Amit,C1814
+T1033,2026-06-19,,Open ,Medium,Payment,Refund Request,Web,Vikram,C1132
+T1447,2026-07-21,2026-07-22,closed,Medium,Payment,Payment Failed,Chat,Sneha,C2814
+T0954,2026-07-31,,Open,Low,Billing,Overcharge,Email,Neha,C4675
+T0673,2026-01-02,2026-01-02,CLOSED,Medium,Payment,Payment Failed,Phone,Anjali,C2295
+T0112,2026-06-04,2026-06-04,Closed,High,Payment,Refund Request,Web,Sneha,C1710
+T0475,2026-02-20,2026-02-21,Closed,Medium,Billing,Billing Cycle Query,Web,Neha,C4348
+T0183,2026-06-01,,Open ,Medium,Billing,Overcharge,Web,Rahul,C3280
+T1124,2026-02-13,2026-02-15, Closed,Medium,Technical,Feature Bug,Phone,Priya,C4904
+T1471,2026-04-14,2026-04-14, Closed,High,Login,Account Locked,Email,Neha,C4719
+T0381,2026-05-18,2026-05-18,CLOSED,Low,Payment,Refund Request,Phone,Neha,C3115
+T1481,2026-05-31,2026-05-31, Closed,Low,Billing,Invoice Issue,Email,Rahul,C2830
+T0119,2026-06-29,2026-06-29,Closed,,Account,Subscription Cancel,Web,Amit,C3744
+T0094,2026-02-07,2026-02-08,CLOSED,Low,Payment,Refund Request,Chat,Neha,C4171
+T0714,2026-01-09,2026-01-09, Closed,Medium,Account,Delete Account,Chat,Sneha,C3926
+T0955,2026-07-13,2026-07-13,closed,Low,Account,Subscription Cancel,Phone,Vikram,C2184
+T1299,2026-01-09,2026-01-09, Closed,Medium,Account,Delete Account,Web,Priya,C1200
+T1108,2026-07-05,2026-07-06,CLOSED,High,Technical,Feature Bug,Email,Karan,C4450
+T0061,2026-07-15,2026-07-16,closed,High,Payment,Duplicate Charge,Chat,Priya,C3285
+T0437,2026-03-16,2026-03-17,closed,Medium,Technical,Sync Issue,Web,Priya,C1078
+T1116,2026-02-10,2026-02-10,Closed,Medium,Account,Subscription Cancel,Phone,Neha,C4091
+T0007,2026-01-09,2026-01-09,Closed,Medium,Billing,Overcharge,Email,Sneha,C4366
+T1305,2026-06-01,2026-06-02,CLOSED,Low,Technical,Feature Bug,Chat,Neha,C4419
+T0556,2026-02-09,2026-02-11,closed,Medium,Technical,Feature Bug,Chat,Priya,C1892
+T1163,2026-01-03,2026-01-03,CLOSED,Medium,Billing,Invoice Issue,Email,Priya,C1087
+T1356,2026-02-10,2026-02-12,closed,Low,Technical,App Crash,Web,Karan,C2068
+T0922,2026-06-30,2026-06-30,closed,High,Billing,Plan Upgrade Error,Web,Karan,C2599
+T0748,2026-02-13,2026-02-13,Closed,Medium,Login,Login Error,Chat,Sneha,C1866
+T1049,2026-07-10,2026-07-11,CLOSED,Medium,Payment,Duplicate Charge,Phone,Karan,C1632
+T0247,2026-05-27,2026-05-27,Closed,,Billing,Overcharge,Web,Priya,C4662
+T1105,2026-06-10,2026-06-10,closed,Medium,Account,Update Profile,Web,Priya,C4160
+T0269,2026-03-26,2026-03-26,closed,Medium,Login,Account Locked,Email,Anjali,C1002
+T1479,2026-04-22,2026-04-22,closed,High,Payment,Card Declined,Phone,Karan,C4433
+T0165,2026-05-01,2026-05-01,closed,High,Payment,Refund Request,Phone,Neha,C3938
+T0188,2026-03-14,2026-03-15,CLOSED,Medium,Payment,Refund Request,Chat,Neha,C4176
+T1482,2026-01-01,2026-01-01,Closed,Medium,Account,Delete Account,Email,Karan,C3351
+T0668,2026-04-05,2026-04-05,closed,Medium,Technical,Sync Issue,Email,Priya,C2895
+T0897,2026-08-02,2026-08-02,CLOSED,Medium,Login,Login Error,Phone,Neha,C3704
+T0700,2026-05-28,2026-05-29,Closed,Medium,Payment,Card Declined,Email,Neha,C1569
+T1066,2026-06-19,2026-06-20,CLOSED,Low,Payment,Card Declined,Email,Sneha,C1854
+T1499,2026-04-22,2026-04-23,CLOSED,Medium,Payment,Duplicate Charge,Chat,Rahul,C4605
+T0846,2026-07-10,2026-07-11,closed,Medium,Technical,Slow Performance,Email,Rahul,C1895
+T1198,2026-03-22,2026-03-23,CLOSED,Medium,Payment,Card Declined,Chat,Anjali,C4106
+T0789,2026-03-13,2026-03-13,CLOSED,High,Login,Login Error,Chat,Amit,C2021
+T0336,2026-07-20,2026-07-20,Closed,Low,Billing,Overcharge,Phone,Sneha,C3092
+T1151,2026-02-17,2026-02-17,CLOSED,Medium,Login,Login Error,Web,Priya,C1922
+T0574,2026-03-09,2026-03-10, Closed,Medium,Technical,Feature Bug,Chat,Rahul,C2603
+T0887,2026-02-17,2026-02-18, Closed,Medium,Payment,Duplicate Charge,Web,Rahul,C1386
+T0516,2026-07-22,2026-07-22,closed,Medium,Account,Delete Account,Email,Amit,C1409
+T1021,2026-07-09,2026-07-11, Closed,Low,Technical,Feature Bug,Web,Vikram,C2059
+T1030,2026-01-02,2026-01-02,Closed,Medium,Account,Update Profile,Chat,Karan,C2116
+T1099,2026-07-07,2026-07-07,closed,High,Billing,Overcharge,Chat,Rahul,C1813
+T0140,2026-06-06,2026-06-07, Closed,Medium,Technical,App Crash,Web,Anjali,C1878
+T0217,2026-04-20,2026-04-21,closed,High,Technical,Feature Bug,Chat,Anjali,C3425
+T0176,2026-01-15,2026-01-15,CLOSED,High,Login,Login Error,Phone,Anjali,C3309
+T0906,2026-03-21,2026-03-22,Closed,High,Technical,Slow Performance,Chat,Karan,C3573
+T0961,2026-06-30,2026-07-02, Closed,Low,Technical,Slow Performance,Web,Priya,C3933
+T1278,2026-03-17,2026-03-17, Closed,Low,Technical,Feature Bug,Phone,Priya,C3450
+T0420,2026-05-15,2026-05-15,closed,Low,Login,Password Reset,Phone,Sneha,C1791
+T0351,2026-01-30,2026-01-30,Closed,High,Billing,Overcharge,Chat,Karan,C1795
+T0722,2026-07-08,2026-07-09,closed,Medium,Payment,Payment Failed,Email,Karan,C1968
+T0225,2026-01-31,2026-01-31,closed,Low,Account,Email Change,Email,Anjali,C4544
+T0940,2026-06-13,2026-06-13,Closed,High,Login,Login Error,Email,Neha,C2966
+T1477,2026-02-21,2026-02-21,closed,Low,,Email Change,Web,Anjali,C2229
+T1210,2026-01-14,2026-01-14,closed,Low,Account,Delete Account,Web,Neha,C2899
+T1378,2026-01-20,2026-01-20,Closed,Medium,Login,Account Locked,Web,Neha,C2713
+T0752,2026-07-08,2026-07-08,Closed,High,Login,OTP Not Received,Web,Vikram,C3363
+T1308,2026-04-20,2026-04-21,closed,High,Technical,Sync Issue,Chat,Rahul,C3806
+T0589,2026-03-12,2026-03-12,CLOSED,High,Payment,Card Declined,Email,Amit,C1876
+T0728,2026-04-03,2026-04-04,closed,Low,Payment,Duplicate Charge,Phone,Priya,C4895
+T0001,2026-07-08,2026-07-08,Closed,Low,Login,Password Reset,Chat,Sneha,C1571
+T0509,2026-06-26,2026-06-28,Closed,Medium,Technical,Slow Performance,Phone,Priya,C3583
+T0787,2026-07-12,2026-07-12, Closed,Medium,Account,Update Profile,Phone,Amit,C2330
+T0773,2026-01-27,2026-01-28,CLOSED,High,Payment,Duplicate Charge,Phone,Sneha,C2550
+T1289,2026-07-28,2026-07-30, Closed,Low,Technical,App Crash,Email,Vikram,C2662
+T0978,2026-05-08,2026-05-10,CLOSED,Medium,Technical,Sync Issue,Chat,Vikram,C1070
+T0003,2026-02-25,2026-02-25,Closed,Medium,Login,Account Locked,Web,Karan,C1636
+T1405,2026-02-01,2026-02-01, Closed,High,Billing,Plan Upgrade Error,Phone,Neha,C2540
+T1086,2026-06-08,2026-06-09,closed,High,Technical,App Crash,Chat,Karan,C2522
+T1121,2026-03-08,2026-03-09,CLOSED,Medium,Technical,Slow Performance,Phone,Vikram,C4058
+T0327,2026-01-25,2026-01-25,closed,Low,Billing,Billing Cycle Query,Web,Anjali,C1467
+T0047,2026-08-01,2026-08-02,Closed,Medium,,Card Declined,Phone,Karan,C4080
+T1186,2026-02-17,2026-02-17,Closed,Low,Login,Login Error,Chat,Amit,C3428
+T0382,2026-04-01,2026-04-01,CLOSED,Medium,Account,Update Profile,Chat,Anjali,C2285
+T0301,2026-07-26,2026-07-27,closed,High,Payment,Duplicate Charge,Chat,Karan,C3970
+T0698,2026-02-28,2026-02-28,closed,Medium,Login,Login Error,Chat,Vikram,C1932
+T1260,2026-02-24,2026-02-24,Closed,Medium,Login,Account Locked,Phone,Vikram,C2827
+T0847,2026-03-20,2026-03-21,Closed,Medium,Payment,Payment Failed,Web,Rahul,C2236
+T0108,2026-04-12,2026-04-13,Closed,High,Technical,Slow Performance,Chat,Neha,C1295
+T1396,2026-01-08,2026-01-08,closed,Low,,Duplicate Charge,Web,Rahul,C4500
+T0819,2026-01-07,2026-01-08, Closed,Low,Payment,Payment Failed,Chat,Vikram,C4002
+T0376,2026-01-10,2026-01-10,Closed,High,Billing,Plan Upgrade Error,Chat,Amit,C3760
+T0749,2026-03-07,2026-03-08,Closed,Low,Payment,Duplicate Charge,Web,Sneha,C3945
+T0739,2026-01-16,2026-01-16,closed,Medium,Login,Login Error,Chat,Amit,C1823
+T1241,2026-06-20,2026-06-21,Closed,Medium,Technical,App Crash,Email,Priya,C3148
+T1374,2026-05-21,2026-05-21,Closed,Medium,Login,Password Reset,Web,Vikram,C1458
+T0055,2026-05-02,2026-05-02, Closed,Low,Login,Account Locked,Phone,Sneha,C3828
+T0461,2026-07-26,2026-07-26,closed,,Billing,Plan Upgrade Error,Phone,Anjali,C3017
+T0818,2026-04-28,2026-04-28, Closed,Low,Login,Password Reset,Web,Amit,C2207
+T1185,2026-01-07,2026-01-08, Closed,Low,Payment,Refund Request,Phone,Vikram,C4889
+T0525,2026-03-17,2026-03-18,closed,High,Technical,Feature Bug,Web,Sneha,C4630
+T0343,2026-05-13,2026-05-13, Closed,Medium,Login,Login Error,Web,Rahul,C4732
+T0489,2026-07-07,2026-07-07,CLOSED,Low,Login,Login Error,Email,Amit,C3990
+T0618,2026-07-25,2026-07-25,closed,Medium,Billing,Invoice Issue,Phone,Priya,C4715
+T1195,2026-03-11,2026-03-11,CLOSED,Low,Account,Email Change,Phone,Amit,C4209
+T0167,2026-08-14,,Open,Medium,Login,Account Locked,Email,Amit,C2711
+T0182,2026-07-07,2026-07-07,CLOSED,Medium,Login,Account Locked,Web,Sneha,C4341
+T1098,2026-05-22,2026-05-22,closed,Low,Account,Delete Account,Web,Anjali,C2786
+T1315,2026-04-06,2026-04-06, Closed,High,Technical,Slow Performance,Web,Rahul,C3722
+T0825,2026-03-11,2026-03-12,Closed,High,Technical,Feature Bug,Web,Vikram,C1797
+T0413,2026-02-17,2026-02-19,CLOSED,Medium,Technical,Sync Issue,Phone,Sneha,C3321
+T0607,2026-05-06,2026-05-07,closed,Medium,Billing,Plan Upgrade Error,Chat,Neha,C4018
+T0730,2026-04-07,2026-04-07, Closed,Medium,Payment,Duplicate Charge,Web,Anjali,C2160
+T0624,2026-08-04,2026-08-04,closed,High,Payment,Payment Failed,Chat,Sneha,C2784
+T0964,2026-05-01,2026-05-02,closed,Low,Billing,Billing Cycle Query,Chat,Sneha,C2086
+T0288,2026-02-14,2026-02-15,closed,Medium,Technical,Sync Issue,Phone,Anjali,C1153
+T0149,2026-02-06,2026-02-07,CLOSED,Medium,Technical,Feature Bug,Chat,Neha,C3484
+T0565,2026-03-14,2026-03-14,CLOSED,High,Account,Update Profile,Phone,Priya,C2576
+T0661,2026-05-23,2026-05-24,closed,Medium,Payment,Payment Failed,Email,Sneha,C4125
+T1320,2026-07-24,2026-07-24,Closed,Low,Account,Email Change,Chat,Sneha,C3384
+T0943,2026-03-02,2026-03-02,Closed,High,Account,Email Change,Web,Rahul,C3459
+T1230,2026-03-31,2026-03-31, Closed,Medium,Billing,Invoice Issue,Email,Anjali,C2309
+T0977,2026-06-17,2026-06-17, Closed,Medium,Account,Email Change,Email,Karan,C4970
+T0840,2026-07-26,2026-07-27, Closed,Low,Billing,Invoice Issue,Phone,Rahul,C4835
+T1282,2026-04-09,2026-04-09,closed,,Technical,Sync Issue,Chat,Priya,C3526
+T1373,2026-05-09,2026-05-09,Closed,Low,Technical,Sync Issue,Email,Anjali,C4935
+T0395,2026-07-06,2026-07-06,CLOSED,Medium,Account,Subscription Cancel,Chat,Rahul,C1512
+T0304,2026-08-09,2026-08-10,Closed,Medium,Payment,Refund Request,Phone,Amit,C2295
+T1027,2026-02-07,2026-02-07,Closed,High,Billing,Billing Cycle Query,Web,Neha,C1156
+T0335,2026-07-20,2026-07-21,Closed,Medium,Payment,Duplicate Charge,Chat,Rahul,C3828
+T0766,2026-05-24,2026-05-24,Closed,High,Login,Password Reset,Chat,Amit,C1359
+T0688,2026-05-15,,Open ,Medium,Technical,Slow Performance,Web,Amit,C4854
+T0952,2026-04-18,2026-04-19, Closed,Low,Payment,Refund Request,Email,Amit,C1494
+T0724,2026-08-05,2026-08-05,CLOSED,Medium,Login,Login Error,Web,Rahul,C1938
+T1469,2026-07-04,2026-07-04,Closed,Medium,Login,Account Locked,Email,Anjali,C3944
+T0468,2026-03-19,2026-03-20,CLOSED,Medium,Payment,Duplicate Charge,Web,Sneha,C3150
+T0499,2026-04-16,2026-04-17,Closed,Medium,Payment,Duplicate Charge,Email,Priya,C1048
+T1065,2026-04-17,2026-04-17, Closed,Medium,Account,Email Change,Phone,Vikram,C4123
+T0121,2026-02-11,2026-02-12,closed,Medium,Billing,Invoice Issue,Chat,Vikram,C1631
+T1069,2026-05-01,2026-05-01,Closed,Medium,Account,Email Change,Phone,Karan,C1454
+T1165,2026-04-17,2026-04-17, Closed,Low,Account,Update Profile,Chat,Amit,C1668
+T1062,2026-03-20,2026-03-20,CLOSED,High,Account,Delete Account,Email,Sneha,C1873
+T1418,2026-05-03,2026-05-03,closed,Low,Payment,Refund Request,Phone,Anjali,C2599
+T0473,2026-02-06,2026-02-06,closed,High,Login,Password Reset,Web,Neha,C2110
+T1070,2026-03-04,2026-03-05,CLOSED,Medium,Payment,Refund Request,Chat,Priya,C2795
+T0885,2026-01-14,2026-01-14,closed,Medium,Login,Password Reset,Email,Sneha,C1471
+T0143,2026-03-21,2026-03-21, Closed,Medium,Account,Email Change,Chat,Priya,C1269
+T1322,2026-05-31,2026-05-31, Closed,Low,Account,Email Change,Chat,Priya,C1386
+T0586,2026-07-04,2026-07-04,Closed,Medium,Account,Email Change,Chat,Rahul,C4947
+T0780,2026-01-20,2026-01-21,closed,Medium,Payment,Payment Failed,Chat,Sneha,C1716
+T1473,2026-01-16,2026-01-16,Closed,Medium,Account,Subscription Cancel,Email,Rahul,C3273
+T0567,2026-02-13,2026-02-13,closed,High,Login,Password Reset,Phone,Priya,C4036
+T0081,2026-05-30,2026-05-30, Closed,High,Payment,Refund Request,Phone,Sneha,C3038
+T1074,2026-01-20,2026-01-21,Closed,Medium,Billing,Billing Cycle Query,Web,Priya,C4008
+T0904,2026-08-01,,Open,Low,Technical,Feature Bug,Email,Rahul,C2106
+T0390,2026-03-06,2026-03-07,Closed,Low,Technical,Slow Performance,Web,Anjali,C2228
+T0192,2026-01-02,2026-01-02,closed,,Payment,Payment Failed,Email,Rahul,C4130
+T0851,2026-04-27,2026-04-27,Closed,Low,Login,OTP Not Received,Chat,Sneha,C4182
+T0573,2026-02-04,2026-02-05, Closed,Low,Payment,Duplicate Charge,Chat,Anjali,C2764
+T1216,2026-08-15,2026-08-15,CLOSED,High,Login,Password Reset,Chat,Anjali,C4562
+T1496,2026-06-13,2026-06-14, Closed,Medium,Technical,Slow Performance,Email,Vikram,C3875
+T0647,2026-06-23,2026-06-24, Closed,Medium,Technical,Slow Performance,Phone,Priya,C2512
+T1106,2026-01-11,2026-01-11,CLOSED,High,Billing,Billing Cycle Query,Web,Karan,C4889
+T0368,2026-07-18,2026-07-18, Closed,High,Billing,Invoice Issue,Chat,Rahul,C4673
+T0783,2026-04-01,2026-04-02,CLOSED,,Technical,App Crash,Phone,Neha,C2222
+T0719,2026-07-16,2026-07-16,Closed,High,Account,Email Change,Chat,Vikram,C2235
+T0442,2026-07-17,2026-07-18,closed,Medium,Payment,Refund Request,Chat,Vikram,C4723
+T1123,2026-03-31,2026-03-31,closed,Medium,Login,Login Error,Email,Sneha,C3949
+T0090,2026-05-18,2026-05-18, Closed,Low,Login,OTP Not Received,Email,Priya,C1961
+T1039,2026-06-06,2026-06-07,Closed,High,Technical,Feature Bug,Email,Sneha,C1567
+T1051,2026-08-10,,open,Medium,Account,Delete Account,Web,Neha,C2548
+T1304,2026-03-14,2026-03-14, Closed,Low,Login,Login Error,Web,Anjali,C1182
+T0609,2026-01-29,2026-01-30,Closed,Medium,Technical,App Crash,Phone,Anjali,C3019
+T0710,2026-01-20,2026-01-20,CLOSED,Low,Login,Account Locked,Phone,Priya,C2510
+T0024,2026-06-09,,Open,Medium,Account,Subscription Cancel,Email,Rahul,C2877
+T0916,2026-03-01,2026-03-01,closed,Low,Login,Login Error,Phone,Neha,C4112
+T1402,2026-04-12,2026-04-13,CLOSED,Low,Technical,App Crash,Email,Karan,C1093
+T0584,2026-02-11,2026-02-11,closed,Low,Login,Account Locked,Web,Karan,C3646
+T0080,2026-04-06,2026-04-06,closed,Medium,Login,Password Reset,Email,Karan,C2468
+T1451,2026-08-10,2026-08-11, Closed,Medium,Payment,Card Declined,Email,Neha,C2069
+T0465,2026-07-20,,Open,High,Payment,Card Declined,Phone,Neha,C2894
+T0372,2026-05-22,2026-05-22,CLOSED,Low,Account,Email Change,Phone,Sneha,C2692
+T1445,2026-02-04,2026-02-05,Closed,Medium,Technical,Feature Bug,Web,Karan,C2981
+T0440,2026-05-23,2026-05-23,CLOSED,Medium,Account,Update Profile,Phone,Rahul,C4867
+T0937,2026-05-17,2026-05-18,CLOSED,Low,Technical,App Crash,Phone,Karan,C4516
+T0823,2026-02-10,2026-02-12,Closed,Low,Technical,Sync Issue,Web,Sneha,C2735
+T1204,2026-01-11,2026-01-11,closed,High,Billing,Invoice Issue,Chat,Anjali,C1173
+T1118,2026-02-04,2026-02-05,CLOSED,High,Technical,Sync Issue,Web,Neha,C2625
+T0373,2026-07-20,2026-07-20,closed,Low,Account,Subscription Cancel,Email,Sneha,C2829
+T1127,2026-06-06,2026-06-07,CLOSED,Low,Technical,Slow Performance,Web,Rahul,C4976
+T0930,2026-06-05,2026-06-05,Closed,Medium,Account,Update Profile,Chat,Karan,C1531
+T0801,2026-01-11,2026-01-11,CLOSED,High,Account,Update Profile,Email,Sneha,C2195
+T1329,2026-02-06,2026-02-06,Closed,Medium,Login,Password Reset,Web,Sneha,C2831
+T1016,2026-04-11,2026-04-12,CLOSED,Low,Payment,Card Declined,Web,Vikram,C3445
+T0677,2026-06-23,2026-06-23,Closed,Medium,Login,OTP Not Received,Phone,Priya,C1417
+T0699,2026-01-22,2026-01-22,closed,Low,Billing,Billing Cycle Query,Phone,Neha,C4243
+T0542,2026-05-08,2026-05-09, Closed,High,Payment,Duplicate Charge,Email,Vikram,C4813
+T0484,2026-03-14,2026-03-14, Closed,High,Billing,Invoice Issue,Web,Priya,C4527
+T0122,2026-03-03,2026-03-04, Closed,Medium,Payment,Card Declined,Phone,Sneha,C3187
+T0580,2026-03-28,2026-03-28, Closed,Low,Account,Subscription Cancel,Email,Priya,C3424
+T0651,2026-03-20,2026-03-20, Closed,Low,Payment,Refund Request,Phone,Rahul,C4837
+T1387,2026-07-19,2026-07-19, Closed,Medium,Billing,Overcharge,Phone,Vikram,C4561
+T0569,2026-02-01,2026-02-02, Closed,Medium,Technical,Feature Bug,Chat,Anjali,C1442
+T1384,2026-03-19,2026-03-19, Closed,Low,Account,Email Change,Email,Priya,C1991
+T0970,2026-03-08,2026-03-08,closed,Medium,Account,Subscription Cancel,Phone,Vikram,C2632
+T0553,2026-08-13,2026-08-13,CLOSED,Medium,Account,Delete Account,Chat,Neha,C2888
+T1268,2026-01-24,2026-01-25,closed,High,Technical,Sync Issue,Email,Sneha,C4570
+T0541,2026-05-24,2026-05-24,CLOSED,Medium,Account,Delete Account,Web,Amit,C1840
+T0929,2026-07-04,2026-07-04,Closed,Low,Payment,Card Declined,Email,Rahul,C4576
+T0804,2026-02-22,2026-02-22, Closed,Low,Account,Delete Account,Chat,Neha,C2100
+T1152,2026-05-21,2026-05-22,Closed,,Technical,App Crash,Web,Amit,C1587
+T0622,2026-01-05,2026-01-05,Closed,Low,Billing,Plan Upgrade Error,Email,Vikram,C3188
+T0398,2026-06-28,2026-06-28, Closed,Medium,Account,Subscription Cancel,Web,Anjali,C1553
+T1466,2026-01-25,2026-01-25, Closed,High,Billing,Plan Upgrade Error,Phone,Rahul,C4179
+T0415,2026-07-04,2026-07-05, Closed,Low,Technical,Slow Performance,Web,Sneha,C2313
+T1295,2026-02-27,2026-02-28,Closed,High,Technical,Sync Issue,Email,Anjali,C3484
+T0579,2026-04-22,2026-04-23,Closed,High,Technical,Sync Issue,Web,Neha,C4970
+T0582,2026-06-13,2026-06-14, Closed,Medium,Billing,Overcharge,Chat,Anjali,C2097
+T0744,2026-04-26,2026-04-27, Closed,Medium,Payment,Payment Failed,Web,Sneha,C2509
+T0548,2026-03-19,2026-03-19,CLOSED,High,Technical,Feature Bug,Email,Amit,C1851
+T0387,2026-08-09,2026-08-09,CLOSED,Medium,Payment,Card Declined,Web,Neha,C3509
+T1416,2026-02-03,2026-02-04,CLOSED,Low,Payment,Card Declined,Web,Karan,C3655
+T0568,2026-07-15,2026-07-16,CLOSED,High,Technical,App Crash,Phone,Anjali,C2140
+T1114,2026-03-31,2026-03-31, Closed,High,Account,Delete Account,Web,Vikram,C4085
+T0208,2026-07-08,2026-07-09, Closed,Medium,Payment,Card Declined,Phone,Neha,C2193
+T1095,2026-03-09,2026-03-09,Closed,Medium,Billing,Billing Cycle Query,Chat,Anjali,C3544
+T0430,2026-06-28,2026-06-29,closed,Medium,Billing,Billing Cycle Query,Phone,Vikram,C4169
+T0441,2026-03-21,2026-03-22,closed,Medium,Technical,Slow Performance,Chat,Vikram,C4975
+T1014,2026-05-23,2026-05-23, Closed,High,Payment,Card Declined,Chat,Amit,C3804
+T0779,2026-06-07,2026-06-08,Closed,Medium,Technical,Feature Bug,Email,Vikram,C1056
+T1455,2026-05-12,2026-05-14,closed,Medium,Technical,Feature Bug,Chat,Neha,C3733
+T0998,2026-07-08,2026-07-08,closed,High,Billing,Invoice Issue,Email,Amit,C3890
+T0377,2026-01-04,2026-01-05,Closed,Medium,Technical,Sync Issue,Phone,Sneha,C3120
+T1380,2026-02-02,2026-02-02,Closed,Medium,Technical,App Crash,Email,Priya,C4057
+T0630,2026-08-05,2026-08-06,closed,Low,Technical,Feature Bug,Web,Anjali,C4275
+T1131,2026-08-14,2026-08-14,Closed,Medium,Login,OTP Not Received,Email,Karan,C1083
+T0043,2026-04-17,2026-04-18, Closed,High,Payment,Refund Request,Chat,Sneha,C1263
+T0481,2026-05-07,2026-05-07,Closed,High,Account,Subscription Cancel,Email,Vikram,C2341
+T0634,2026-08-04,2026-08-05,Closed,Low,Billing,Invoice Issue,Phone,Anjali,C4943
+T1110,2026-01-28,2026-01-29,Closed,Medium,Technical,Feature Bug,Phone,Rahul,C3464
+T0965,2026-06-06,2026-06-06,closed,High,Login,Account Locked,Email,Anjali,C3284
+T1037,2026-08-08,2026-08-08, Closed,Medium,Account,Update Profile,Web,Vikram,C1922
+T0838,2026-04-21,2026-04-21,CLOSED,High,Technical,App Crash,Email,Vikram,C4146
+T0629,2026-02-26,2026-02-26,CLOSED,Medium,Account,Delete Account,Phone,Sneha,C3079
+T0409,2026-06-12,2026-06-12,Closed,Low,Account,Update Profile,Chat,Priya,C1966
+T1355,2026-06-11,2026-06-11,Closed,Low,Login,Login Error,Web,Rahul,C4225
+T1351,2026-05-18,2026-05-18,CLOSED,High,Billing,Invoice Issue,Email,Neha,C3150
+T1464,2026-02-08,2026-02-09, Closed,Low,,Slow Performance,Email,Neha,C1551
+T0458,2026-07-16,2026-07-16,CLOSED,Low,Billing,Overcharge,Web,Rahul,C1381
+T0828,2026-02-03,2026-02-04,Closed,Medium,Technical,Slow Performance,Phone,Neha,C4988
+T0002,2026-06-16,2026-06-16, Closed,Medium,Payment,Refund Request,Email,Sneha,C3932
+T0289,2026-04-06,2026-04-06,CLOSED,High,Account,Delete Account,Phone,Karan,C4674
+T1073,2026-05-25,2026-05-27,Closed,Low,Technical,Feature Bug,Email,Neha,C1066
+T1253,2026-01-18,2026-01-19,CLOSED,Medium,Billing,Invoice Issue,Phone,Vikram,C1013
+T0861,2026-05-26,2026-05-26,Closed,High,Technical,Slow Performance,Email,Amit,C3701
+T0721,2026-05-11,2026-05-11,closed,High,Account,Subscription Cancel,Email,Anjali,C2566
+T1045,2026-07-03,2026-07-03, Closed,Low,Account,Subscription Cancel,Email,Neha,C2636
+T0726,2026-06-01,2026-06-01,closed,Low,Login,Account Locked,Chat,Priya,C1711
+T0089,2026-07-30,2026-07-31,CLOSED,Low,Billing,Plan Upgrade Error,Chat,Priya,C3602
+T1048,2026-03-15,2026-03-16,CLOSED,Medium,Billing,Plan Upgrade Error,Chat,Amit,C3137
+T0307,2026-01-02,2026-01-02,closed,Low,Login,OTP Not Received,Chat,Rahul,C3771
+T1056,2026-03-19,2026-03-19,closed,Low,Account,Update Profile,Email,Amit,C3140
+T0939,2026-03-20,2026-03-20,CLOSED,Medium,Account,Email Change,Web,Rahul,C1509
+T0403,2026-03-16,2026-03-16, Closed,High,Account,Subscription Cancel,Email,Amit,C1559
+T0663,2026-05-04,2026-05-05,CLOSED,Medium,Technical,Sync Issue,Chat,Rahul,C1246
+T0927,2026-04-10,2026-04-11,closed,Medium,Payment,Card Declined,Email,Anjali,C1213
+T0014,2026-05-19,2026-05-19,closed,Medium,Billing,Overcharge,Phone,Sneha,C4804
+T0076,2026-01-10,2026-01-11,CLOSED,Low,Technical,Feature Bug,Chat,Anjali,C4951
+T0095,2026-01-04,2026-01-05,closed,Low,Billing,Plan Upgrade Error,Email,Rahul,C1539
+T1293,2026-01-10,2026-01-10,Closed,High,,Update Profile,Web,Neha,C1409
+T0433,2026-04-06,2026-04-07,Closed,Medium,Technical,Slow Performance,Chat,Sneha,C3807
+T0400,2026-07-13,2026-07-14,Closed,Medium,Payment,Duplicate Charge,Email,Anjali,C4878
+T1314,2026-07-17,2026-07-18,CLOSED,Low,Technical,App Crash,Chat,Anjali,C3283
+T0919,2026-01-09,2026-01-09,CLOSED,High,Billing,Overcharge,Email,Priya,C1833
+T0444,2026-01-07,2026-01-07,CLOSED,Low,Account,Delete Account,Email,Amit,C1756
+T0447,2026-03-25,2026-03-26, Closed,High,Payment,Payment Failed,Phone,Anjali,C3817
+T0048,2026-03-05,2026-03-05,Closed,Medium,Account,Delete Account,Email,Rahul,C4889
+T0706,2026-07-03,2026-07-04,CLOSED,Medium,,Slow Performance,Web,Sneha,C3058
+T0925,2026-07-09,2026-07-10,Closed,Medium,Billing,Invoice Issue,Email,Vikram,C3450
+T0021,2026-01-15,2026-01-15,Closed,High,Billing,Billing Cycle Query,Web,Sneha,C4967
+T0222,2026-06-25,2026-06-25, Closed,High,Login,Login Error,Phone,Anjali,C2675
+T0077,2026-06-17,2026-06-17,CLOSED,High,Billing,Billing Cycle Query,Chat,Vikram,C4567
+T0855,2026-03-23,2026-03-23, Closed,Low,Payment,Card Declined,Chat,Vikram,C4703
+T0449,2026-04-23,2026-04-23,CLOSED,Medium,Login,Login Error,Email,Sneha,C2192
+T0389,2026-04-21,2026-04-22,closed,Low,Payment,Refund Request,Web,Sneha,C3274
+T1008,2026-05-25,2026-05-25,Closed,Medium,Billing,Overcharge,Phone,Neha,C2524
+T0761,2026-03-19,2026-03-20,closed,High,Technical,Slow Performance,Chat,Vikram,C3001
+T0976,2026-05-31,2026-06-01,CLOSED,High,Technical,App Crash,Chat,Priya,C4014
+T1244,2026-04-21,2026-04-21,CLOSED,Low,Account,Delete Account,Phone,Rahul,C4081
+T0967,2026-08-14,,OPEN,Medium,Account,Subscription Cancel,Chat,Priya,C4944
+T0286,2026-03-12,2026-03-12,Closed,Medium,Login,Password Reset,Phone,Neha,C4508
+T0836,2026-07-22,2026-07-23,Closed,Low,Technical,Sync Issue,Email,Rahul,C4035
+T1251,2026-07-05,2026-07-05,CLOSED,High,Billing,Plan Upgrade Error,Phone,Amit,C1480
+T1457,2026-02-08,2026-02-09,closed,Low,Payment,Refund Request,Email,Rahul,C4190
+T1001,2026-06-05,2026-06-05, Closed,High,Payment,Duplicate Charge,Phone,Rahul,C2128
+T0187,2026-01-04,2026-01-04,closed,Medium,Billing,Overcharge,Web,Karan,C4919
+T0938,2026-03-05,2026-03-06,CLOSED,Low,Payment,Refund Request,Web,Karan,C1350
+T0414,2026-07-29,2026-07-29,CLOSED,High,,Overcharge,Chat,Anjali,C2211
+T1020,2026-02-02,2026-02-02, Closed,Low,Login,Login Error,Email,Amit,C2306
+T0856,2026-05-22,2026-05-22,CLOSED,Medium,Billing,Invoice Issue,Phone,Karan,C4429
+T1239,2026-01-07,2026-01-07,closed,Medium,Account,Subscription Cancel,Chat,Amit,C1495
+T0018,2026-02-19,2026-02-19, Closed,High,Login,Password Reset,Web,Priya,C2018
+T1043,2026-01-09,2026-01-10, Closed,Low,Payment,Card Declined,Email,Rahul,C4066
+T0751,2026-03-16,2026-03-17,Closed,Low,Technical,Feature Bug,Chat,Karan,C1473
+T0204,2026-03-16,2026-03-17,Closed,Medium,Billing,Invoice Issue,Web,Vikram,C1050
+T0004,2026-04-07,2026-04-08,CLOSED,Low,Billing,Plan Upgrade Error,Phone,Priya,C4985
+T0036,2026-06-20,2026-06-20,closed,Medium,Account,Subscription Cancel,Chat,Sneha,C2722
+T1379,2026-01-06,2026-01-06,CLOSED,Low,Payment,Card Declined,Email,Neha,C3582
+T0810,2026-03-17,2026-03-17, Closed,High,,Invoice Issue,Email,Priya,C3230
+T0693,2026-02-10,2026-02-10,Closed,High,Payment,Card Declined,Phone,Vikram,C3340
+T1491,2026-01-07,2026-01-07,Closed,Low,Account,Subscription Cancel,Chat,Rahul,C4325
+T0324,2026-03-02,2026-03-02, Closed,Medium,Login,Account Locked,Phone,Vikram,C4346
+T1301,2026-08-15,2026-08-15, Closed,High,Account,Subscription Cancel,Web,Amit,C1172
+T1444,2026-05-13,2026-05-13, Closed,Medium,Billing,Billing Cycle Query,Chat,Anjali,C2654
+T0888,2026-03-27,2026-03-28,Closed,Medium,Payment,Refund Request,Email,Amit,C1767
+T0419,2026-01-11,2026-01-11,CLOSED,Low,Billing,Billing Cycle Query,Email,Karan,C3166
+T0317,2026-08-07,2026-08-07,closed,Low,Account,Subscription Cancel,Email,Rahul,C1039
+T0323,2026-05-07,2026-05-07, Closed,High,Billing,Invoice Issue,Chat,Anjali,C4489
+T0509,2026-06-26,2026-06-28,Closed,Medium,Technical,Slow Performance,Phone,Priya,C3583
+T1146,2026-07-22,2026-07-23,closed,Medium,Payment,Payment Failed,Email,Amit,C4695
+T1158,2026-07-05,2026-07-06,closed,Medium,Technical,Feature Bug,Web,Vikram,C1545
+T0564,2026-07-14,2026-07-14,Closed,Medium,Account,Subscription Cancel,Chat,Vikram,C1462
+T1323,2026-02-13,2026-02-14,Closed,Medium,Billing,Invoice Issue,Chat,Priya,C2368
+T0785,2026-06-18,2026-06-18,CLOSED,Low,,Subscription Cancel,Web,Priya,C2796
+T0770,2026-06-27,2026-06-27,closed,Medium,Payment,Card Declined,Web,Vikram,C4851
+T0802,2026-06-04,2026-06-05,CLOSED,Medium,Payment,Refund Request,Email,Neha,C3591
+T0432,2026-06-17,2026-06-18,CLOSED,Medium,Technical,Sync Issue,Web,Neha,C3432
+T0283,2026-01-16,2026-01-16, Closed,Medium,Login,Password Reset,Phone,Sneha,C3267
+T0989,2026-02-25,2026-02-25,CLOSED,High,Account,Delete Account,Chat,Priya,C3992
+T0098,2026-06-09,2026-06-09,CLOSED,Medium,Login,OTP Not Received,Email,Amit,C2126
+T0175,2026-03-25,2026-03-25,closed,High,Login,Password Reset,Chat,Amit,C1673
+T0500,2026-06-02,2026-06-02,closed,High,Account,Email Change,Email,Priya,C1232
+T1337,2026-07-25,2026-07-26,closed,Low,Payment,Payment Failed,Phone,Karan,C3850
+T1319,2026-05-15,2026-05-15,Closed,Medium,Login,OTP Not Received,Email,Amit,C4815
+T0482,2026-03-16,2026-03-16, Closed,Low,Billing,Invoice Issue,Chat,Anjali,C3176
+T1403,2026-07-03,2026-07-03, Closed,High,Technical,Slow Performance,Chat,Neha,C2465
+T0592,2026-01-03,2026-01-03,CLOSED,Medium,Account,Update Profile,Chat,Anjali,C2591
+T0191,2026-02-13,2026-02-13,CLOSED,Low,Account,Email Change,Phone,Anjali,C2887
+T0786,2026-04-18,2026-04-18,Closed,High,Payment,Payment Failed,Email,Amit,C2616
+T0764,2026-07-02,2026-07-03,closed,,Technical,Sync Issue,Email,Neha,C1260
+T0388,2026-06-29,2026-06-29,CLOSED,High,Account,Email Change,Phone,Sneha,C2716
+T0606,2026-04-21,2026-04-22,CLOSED,Low,Payment,Card Declined,Web,Neha,C4793
+T0172,2026-04-03,2026-04-03,Closed,Medium,Account,Email Change,Email,Karan,C3677
+T0023,2026-03-08,2026-03-08,CLOSED,Medium,Payment,Payment Failed,Phone,Neha,C4828
+T0250,2026-08-13,2026-08-14,CLOSED,Low,Payment,Refund Request,Email,Vikram,C1282
+T1161,2026-06-24,2026-06-25,closed,Medium,Payment,Card Declined,Chat,Karan,C4055
+T0985,2026-03-16,2026-03-16,closed,Medium,Account,Email Change,Web,Amit,C1579
+T1041,2026-07-02,2026-07-02,CLOSED,Medium,Payment,Card Declined,Chat,Amit,C2934
+T1071,2026-08-07,2026-08-07, Closed,Low,Login,Account Locked,Email,Neha,C4920
+T0093,2026-03-27,2026-03-28,closed,Medium,Technical,App Crash,Email,Rahul,C4222
+T0235,2026-01-19,2026-01-19,Closed,Low,Account,Update Profile,Phone,Amit,C2956
+T1177,2026-07-03,2026-07-03,CLOSED,Low,Login,Login Error,Chat,Sneha,C1204
+T0889,2026-04-01,2026-04-02, Closed,Low,Payment,Duplicate Charge,Chat,Rahul,C3433
+T1229,2026-04-06,2026-04-06, Closed,High,Account,Subscription Cancel,Web,Neha,C2588
+T1107,2026-07-07,2026-07-07,CLOSED,Low,Payment,Card Declined,Chat,Priya,C1362
+T1489,2026-07-30,,Open ,Low,Technical,App Crash,Web,Rahul,C4339
+T0034,2026-06-05,2026-06-05,closed,Medium,Login,Password Reset,Web,Neha,C2787
+T0005,2026-03-16,2026-03-16,Closed,Low,Billing,Overcharge,Email,Sneha,C4166
+T0360,2026-06-16,2026-06-16,CLOSED,Medium,Billing,Plan Upgrade Error,Phone,Rahul,C1163
+T0472,2026-03-23,2026-03-23,Closed,High,Payment,Duplicate Charge,Web,Karan,C3180
+T0380,2026-04-28,2026-04-28, Closed,Low,Billing,Billing Cycle Query,Web,Anjali,C3791
+T1272,2026-06-05,2026-06-06,Closed,Low,Technical,Slow Performance,Chat,Amit,C3621
+T0240,2026-03-23,2026-03-23, Closed,Medium,Billing,Invoice Issue,Email,Neha,C4825
+T1433,2026-03-11,2026-03-12,closed,Medium,Billing,Billing Cycle Query,Chat,Anjali,C1027
+T0249,2026-07-31,2026-08-01,CLOSED,Medium,Technical,Slow Performance,Phone,Neha,C2111
+T1202,2026-03-29,2026-03-29, Closed,Low,Login,OTP Not Received,Web,Priya,C2690
+T0344,2026-07-17,2026-07-18,Closed,Medium,Payment,Duplicate Charge,Email,Amit,C4979
+T0435,2026-07-06,2026-07-07,Closed,Medium,Payment,Refund Request,Web,Anjali,C3551
+T0102,2026-05-04,2026-05-04,Closed,Medium,Account,Email Change,Chat,Amit,C3689
+T1147,2026-05-26,2026-05-26,Closed,Medium,Account,Subscription Cancel,Web,Karan,C4504
+T1277,2026-01-14,2026-01-15,closed,Low,Technical,Sync Issue,Phone,Amit,C2703
+T0354,2026-08-04,2026-08-04,CLOSED,High,Login,OTP Not Received,Chat,Vikram,C2133
+T1440,2026-06-08,2026-06-08, Closed,Medium,Account,Email Change,Phone,Vikram,C3402
+T0322,2026-06-19,2026-06-19, Closed,Medium,Billing,Invoice Issue,Chat,Anjali,C2416
+T0803,2026-07-07,2026-07-07,Closed,Low,Account,Email Change,Email,Neha,C1898
+T0062,2026-07-15,2026-07-15,closed,Medium,Account,Subscription Cancel,Email,Priya,C4881
+T1024,2026-07-29,2026-07-29,CLOSED,Medium,Billing,Plan Upgrade Error,Web,Karan,C4140
+T0231,2026-03-29,2026-03-29,Closed,Medium,Account,Email Change,Chat,Anjali,C4228
+T0310,2026-01-06,2026-01-06,closed,High,Technical,App Crash,Chat,Sneha,C4006
+T0212,2026-06-15,2026-06-15, Closed,High,Billing,Invoice Issue,Chat,Neha,C1681
+T0488,2026-05-20,2026-05-20,Closed,Medium,Billing,Invoice Issue,Chat,Karan,C2682
+T0483,2026-05-30,2026-05-30, Closed,Low,Account,Email Change,Phone,Neha,C1365
+T1068,2026-06-30,2026-07-01,CLOSED,Low,Technical,Feature Bug,Email,Vikram,C3817
+T0334,2026-01-28,2026-01-28,closed,Low,Billing,Plan Upgrade Error,Phone,Rahul,C3141
+T1094,2026-04-12,2026-04-13, Closed,High,Payment,Payment Failed,Email,Sneha,C1663
+T1460,2026-04-30,2026-04-30,closed,High,Payment,Payment Failed,Email,Anjali,C2679
+T1242,2026-05-03,2026-05-04,closed,Low,Payment,Card Declined,Chat,Anjali,C2959
+T0271,2026-02-10,2026-02-11, Closed,Medium,Billing,Invoice Issue,Web,Amit,C4997
+T0549,2026-05-23,2026-05-24,closed,High,Technical,App Crash,Web,Vikram,C1716
+T1222,2026-03-06,2026-03-08,CLOSED,Medium,Technical,Feature Bug,Phone,Priya,C3466
+T0518,2026-02-16,2026-02-16,Closed,,Account,Subscription Cancel,Chat,Rahul,C3442
+T1325,2026-06-06,2026-06-07,closed,Medium,Payment,Card Declined,Email,Vikram,C1864
+T0184,2026-02-08,2026-02-08,closed,Low,Account,Subscription Cancel,Web,Vikram,C2672
+T0075,2026-03-03,2026-03-03,closed,Medium,Account,Subscription Cancel,Web,Sneha,C3856
+T1377,2026-04-15,2026-04-16,closed,Medium,Technical,Feature Bug,Email,Amit,C4098
+T1454,2026-02-18,2026-02-18,Closed,Low,Login,Account Locked,Phone,Rahul,C3244
+T0520,2026-06-15,2026-06-16,closed,Medium,Payment,Card Declined,Chat,Rahul,C1221
+T0282,2026-04-23,2026-04-23,closed,Medium,Account,Subscription Cancel,Phone,Rahul,C2078
+T0921,2026-01-21,2026-01-21,CLOSED,Medium,Payment,Payment Failed,Phone,Priya,C3331
+T1362,2026-05-02,2026-05-03,closed,Medium,Billing,Invoice Issue,Web,Amit,C3242
+T1461,2026-02-16,2026-02-16,Closed,High,Login,Password Reset,Phone,Priya,C1530
+T0982,2026-05-08,2026-05-09,closed,Medium,Technical,App Crash,Chat,Anjali,C3234
+T0273,2026-03-23,,open,Low,Billing,Billing Cycle Query,Email,Amit,C3467
+T1266,2026-07-14,2026-07-14,closed,Low,Billing,Overcharge,Phone,Neha,C1196
+T1348,2026-04-25,2026-04-25, Closed,Low,Billing,Plan Upgrade Error,Chat,Sneha,C4906
+T0627,2026-06-01,2026-06-01, Closed,High,Billing,Plan Upgrade Error,Phone,Anjali,C3102
+T1340,2026-07-08,2026-07-08,CLOSED,,Login,Password Reset,Phone,Amit,C1904
+T0318,2026-03-29,2026-03-29, Closed,Low,Billing,Plan Upgrade Error,Email,Neha,C4338
+T0383,2026-03-09,2026-03-10,closed,Low,Payment,Card Declined,Chat,Sneha,C4574
+T1081,2026-02-22,2026-02-22,Closed,High,Payment,Card Declined,Phone,Vikram,C1813
+T1307,2026-05-29,2026-05-29,CLOSED,High,Account,Subscription Cancel,Web,Rahul,C3034
+T1232,2026-05-01,2026-05-02,CLOSED,Medium,Payment,Payment Failed,Web,Sneha,C3472
+T1178,2026-07-07,2026-07-08,Closed,,Payment,Card Declined,Chat,Anjali,C2179
+T0524,2026-01-09,2026-01-09,Closed,Low,Payment,Duplicate Charge,Chat,Neha,C1521
+T1050,2026-04-04,2026-04-04, Closed,Medium,Login,Account Locked,Chat,Rahul,C2062
+T1029,2026-05-27,2026-05-27, Closed,Low,Billing,Plan Upgrade Error,Chat,Rahul,C2532
+T0935,2026-02-27,2026-02-28,closed,Low,Technical,App Crash,Phone,Anjali,C1181
+T1273,2026-05-15,2026-05-16,CLOSED,Medium,Billing,Billing Cycle Query,Phone,Vikram,C4640
+T1312,2026-02-07,2026-02-08,closed,Low,Billing,Plan Upgrade Error,Email,Priya,C1664
+T1219,2026-05-25,2026-05-26, Closed,Medium,Payment,Refund Request,Email,Rahul,C4577
+T0494,2026-02-07,2026-02-08,closed,High,Payment,Card Declined,Email,Neha,C1345
+T0657,2026-05-16,2026-05-16,CLOSED,Medium,Login,OTP Not Received,Phone,Rahul,C4521
+T0032,2026-06-18,2026-06-19,CLOSED,Medium,Technical,Sync Issue,Chat,Sneha,C1096
+T0220,2026-04-06,2026-04-07, Closed,High,Payment,Duplicate Charge,Web,Priya,C1749
+T1339,2026-05-25,2026-05-25,Closed,High,Account,Subscription Cancel,Email,Priya,C1422
+T0446,2026-01-04,,open,High,Payment,Refund Request,Email,Vikram,C4131
+T0974,2026-05-05,2026-05-05,CLOSED,Low,Login,Password Reset,Email,Vikram,C4241
+T0136,2026-04-24,2026-04-24,Closed,Medium,Account,Email Change,Phone,Amit,C3825
+T0741,2026-03-10,2026-03-10,Closed,Medium,Technical,Feature Bug,Email,Rahul,C1250
+T1096,2026-07-26,,Open ,Low,Account,Email Change,Chat,Karan,C2396
+T0431,2026-03-10,2026-03-11,CLOSED,Medium,Billing,Overcharge,Chat,Sneha,C1293
+T1089,2026-02-27,2026-02-27,Closed,High,Billing,Overcharge,Email,Neha,C4674
+T1243,2026-05-12,2026-05-12,closed,Medium,Login,Account Locked,Chat,Priya,C2956
+T0876,2026-06-26,2026-06-26, Closed,Low,Login,Password Reset,Email,Karan,C2348
+T1426,2026-08-09,,Open,Medium,Payment,Duplicate Charge,Web,Priya,C1915
+T0536,2026-02-08,2026-02-08,Closed,High,Login,Password Reset,Email,Amit,C3032
+T0737,2026-03-20,2026-03-20,closed,Medium,,Delete Account,Chat,Vikram,C3863
+T1134,2026-01-10,2026-01-10,Closed,Low,Billing,Overcharge,Phone,Rahul,C3548
+T0521,2026-07-21,2026-07-21,Closed,High,Technical,App Crash,Email,Amit,C1647
+T0572,2026-01-31,2026-01-31,CLOSED,Low,Billing,Invoice Issue,Email,Vikram,C4604
+T0353,2026-05-30,2026-05-31,CLOSED,Medium,Payment,Duplicate Charge,Web,Karan,C3840
+T0708,2026-07-30,,open,Low,Technical,Sync Issue,Web,Vikram,C3510
+T1248,2026-03-29,2026-03-29,Closed,Medium,Billing,Overcharge,Email,Anjali,C4994
+T1169,2026-06-01,2026-06-01,closed,Medium,Login,OTP Not Received,Phone,Rahul,C3547
+T1054,2026-05-17,2026-05-17,Closed,Low,Technical,App Crash,Email,Karan,C3266
+T0587,2026-06-18,2026-06-18,closed,Low,Billing,Plan Upgrade Error,Phone,Neha,C3751
+T1035,2026-05-18,2026-05-18,Closed,Medium,Login,OTP Not Received,Phone,Sneha,C2537
+T1270,2026-01-03,2026-01-03,closed,High,Account,Delete Account,Chat,Sneha,C4223
+T0903,2026-05-20,2026-05-20,Closed,Medium,Account,Delete Account,Web,Amit,C3543
+T1441,2026-04-04,,open,Medium,Technical,Sync Issue,Chat,Rahul,C1531
+T0142,2026-02-27,2026-02-27,closed,Low,Account,Email Change,Chat,Neha,C3083
+T1389,2026-07-19,2026-07-20,closed,Low,Payment,Refund Request,Email,Amit,C4437
+T1287,2026-07-30,2026-07-31,closed,High,Technical,Feature Bug,Web,Karan,C1436
+T0074,2026-07-05,2026-07-06, Closed,Low,Technical,Sync Issue,Web,Rahul,C2158
+T0025,2026-02-10,2026-02-11,CLOSED,Low,Payment,Duplicate Charge,Chat,Neha,C2167
+T1207,2026-04-06,2026-04-07,closed,Medium,Payment,Refund Request,Web,Karan,C3278
+T1160,2026-02-10,2026-02-10, Closed,High,Account,Subscription Cancel,Chat,Neha,C3259
+T0678,2026-04-29,2026-04-29,Closed,High,Billing,Billing Cycle Query,Email,Anjali,C2572
+T0470,2026-07-02,2026-07-02,CLOSED,High,Login,Account Locked,Email,Anjali,C2587
+T0547,2026-07-06,2026-07-06, Closed,Medium,Account,Email Change,Phone,Priya,C1883
+T1311,2026-01-22,2026-01-22,Closed,Medium,Login,Login Error,Phone,Karan,C4217
+T1280,2026-04-14,2026-04-14, Closed,Medium,Login,Password Reset,Web,Rahul,C2836
+T1117,2026-06-28,2026-06-28,Closed,Low,Billing,Plan Upgrade Error,Chat,Vikram,C3533
+T0666,2026-05-02,2026-05-02,Closed,High,Billing,Plan Upgrade Error,Chat,Rahul,C3493
+T0471,2026-07-16,2026-07-16,CLOSED,Medium,Login,OTP Not Received,Email,Priya,C3132
+T0792,2026-04-20,2026-04-20,CLOSED,Medium,Payment,Refund Request,Phone,Rahul,C3088
+T0068,2026-06-21,2026-06-22,closed,Medium,Technical,App Crash,Phone,Neha,C2315
+T0399,2026-03-20,2026-03-20,CLOSED,,Account,Email Change,Chat,Priya,C2809
+T0674,2026-03-26,2026-03-26,Closed,Low,Payment,Card Declined,Chat,Sneha,C1673
+T0523,2026-04-22,2026-04-23, Closed,High,Technical,Slow Performance,Phone,Rahul,C4647
+T1476,2026-04-29,2026-04-29,CLOSED,Medium,Billing,Invoice Issue,Email,Sneha,C1220
+T0506,2026-01-01,2026-01-01, Closed,Medium,Login,Login Error,Web,Vikram,C3353
+T0793,2026-01-01,2026-01-01,CLOSED,High,Account,Subscription Cancel,Email,Amit,C1167
+T1290,2026-04-12,2026-04-12, Closed,Medium,Account,Update Profile,Phone,Anjali,C4800
+T0125,2026-04-26,,Open ,Low,Technical,Slow Performance,Email,Sneha,C4345
+T1112,2026-03-26,2026-03-26, Closed,High,Technical,App Crash,Chat,Rahul,C3582
+T0026,2026-08-13,2026-08-13,Closed,Medium,Billing,Invoice Issue,Web,Priya,C4845
+T0725,2026-04-24,2026-04-25,Closed,Medium,Payment,Refund Request,Phone,Neha,C1751
+T0973,2026-02-11,2026-02-12,closed,Low,Payment,Card Declined,Chat,Karan,C4282
+T0150,2026-04-26,2026-04-26,Closed,Medium,Account,Update Profile,Phone,Priya,C2095
+T1182,2026-06-22,2026-06-22,CLOSED,High,Billing,Billing Cycle Query,Phone,Rahul,C4048
+T0778,2026-05-07,2026-05-07, Closed,Medium,Login,Account Locked,Email,Karan,C3269
+T1104,2026-07-09,2026-07-09,closed,High,Payment,Duplicate Charge,Phone,Priya,C3973
+T1137,2026-06-17,2026-06-17, Closed,Low,Login,Login Error,Email,Priya,C3717
+T0393,2026-06-11,2026-06-12,CLOSED,Low,Technical,Feature Bug,Phone,Karan,C2899
+T0063,2026-06-02,2026-06-02,Closed,High,Payment,Payment Failed,Phone,Anjali,C3823
+T0348,2026-07-15,2026-07-16,Closed,Medium,Billing,Invoice Issue,Web,Priya,C2153
+T1003,2026-06-10,2026-06-10,Closed,Low,Login,Account Locked,Chat,Neha,C3421
+T0341,2026-02-26,2026-02-27,CLOSED,Medium,Payment,Card Declined,Phone,Priya,C2431
+T0602,2026-06-27,2026-06-28,closed,High,Technical,App Crash,Chat,Neha,C4991
+T0498,2026-06-22,2026-06-22,closed,Medium,Login,OTP Not Received,Phone,Anjali,C4166
+T0423,2026-04-26,2026-04-26, Closed,Low,Payment,Card Declined,Web,Neha,C4938
+T0816,2026-05-21,2026-05-21, Closed,High,Billing,Plan Upgrade Error,Chat,Vikram,C2714
+T0898,2026-02-20,2026-02-20,Closed,Low,Billing,Overcharge,Web,Amit,C4002
+T0924,2026-05-21,2026-05-21,Closed,Low,Payment,Duplicate Charge,Email,Amit,C1836
+T0174,2026-03-05,2026-03-06,Closed,Medium,Billing,Plan Upgrade Error,Phone,Sneha,C4120
+T1007,2026-07-17,2026-07-17,closed,Medium,Account,Delete Account,Web,Priya,C3102
+T1342,2026-07-13,2026-07-13,Closed,High,Billing,Overcharge,Web,Amit,C3692
+T1429,2026-07-23,2026-07-23,CLOSED,High,Payment,Payment Failed,Web,Sneha,C2102
+T0917,2026-01-10,2026-01-10,CLOSED,Low,Technical,Feature Bug,Email,Karan,C1468
+T0316,2026-04-29,2026-04-29,closed,Medium,Login,OTP Not Received,Phone,Karan,C2081
+T0397,2026-02-02,2026-02-02,closed,High,Technical,Sync Issue,Web,Anjali,C3566
+T0287,2026-01-28,2026-01-29,Closed,Medium,Technical,App Crash,Chat,Priya,C4788
+T0229,2026-07-11,2026-07-13,CLOSED,Medium,Technical,Feature Bug,Email,Vikram,C3111
+T0158,2026-05-03,2026-05-03, Closed,Medium,Login,Login Error,Chat,Rahul,C3390
+T0404,2026-05-17,2026-05-18,Closed,Medium,Technical,Slow Performance,Chat,Rahul,C4971
+T0299,2026-05-08,2026-05-08, Closed,Medium,Login,Login Error,Chat,Rahul,C3684
+T0694,2026-06-09,2026-06-09, Closed,High,Billing,Plan Upgrade Error,Email,Anjali,C3098
+T0957,2026-05-25,2026-05-25, Closed,High,Account,Update Profile,Phone,Neha,C1197
+T0585,2026-05-24,2026-05-24,Closed,Low,Login,Account Locked,Web,Anjali,C2988
+T0753,2026-04-12,2026-04-13, Closed,Low,Technical,Sync Issue,Chat,Sneha,C1436
+T0626,2026-01-03,2026-01-04, Closed,Medium,Payment,Refund Request,Phone,Rahul,C2367
+T0090,2026-05-18,2026-05-18, Closed,Low,Login,OTP Not Received,Email,Priya,C1961
+T0880,2026-07-28,2026-07-29,CLOSED,High,Technical,Feature Bug,Email,Neha,C1854
+T1498,2026-05-19,2026-05-20,Closed,Medium,Payment,Duplicate Charge,Chat,Vikram,C2127
+T1366,2026-08-12,2026-08-13, Closed,Low,Payment,Duplicate Charge,Web,Karan,C4548
+T0550,2026-05-24,2026-05-24,closed,High,Billing,Billing Cycle Query,Web,Karan,C3023
+T0742,2026-07-13,2026-07-13, Closed,Medium,Login,Login Error,Web,Anjali,C2938
+T0519,2026-07-14,2026-07-14, Closed,High,Payment,Refund Request,Email,Neha,C4533
+T0665,2026-07-01,2026-07-01,closed,Low,Billing,Plan Upgrade Error,Web,Karan,C4083
+T1032,2026-03-23,2026-03-23, Closed,Medium,Account,Subscription Cancel,Email,Neha,C2395
+T0477,2026-01-29,2026-01-29, Closed,Medium,Account,Email Change,Email,Priya,C2946
+T1142,2026-05-27,2026-05-27,Closed,High,Payment,Duplicate Charge,Chat,Anjali,C1846
+T0253,2026-01-16,2026-01-16,CLOSED,High,Account,Update Profile,Chat,Vikram,C3015
+T1450,2026-02-01,2026-02-02, Closed,Medium,Payment,Refund Request,Web,Karan,C2711
+T0635,2026-02-22,2026-02-22,CLOSED,Medium,Login,Password Reset,Chat,Priya,C4567
+T1303,2026-04-11,,open,High,Billing,Overcharge,Web,Karan,C3174
+T1053,2026-07-11,2026-07-11,closed,Medium,Login,Account Locked,Phone,Rahul,C4440
+T1453,2026-05-23,2026-05-23,closed,Medium,Login,Account Locked,Web,Amit,C3373
+T0755,2026-03-16,2026-03-16, Closed,Low,Login,OTP Not Received,Phone,Sneha,C3027
+T0346,2026-01-19,2026-01-19,closed,High,Login,Password Reset,Chat,Karan,C3285
+T0718,2026-06-17,2026-06-17, Closed,Medium,Payment,Payment Failed,Chat,Rahul,C2647
+T1135,2026-02-09,,Open ,Low,Payment,Refund Request,Phone,Sneha,C3471
+T0945,2026-03-17,2026-03-17,closed,Low,Account,Email Change,Web,Anjali,C4860
+T0099,2026-04-26,2026-04-27, Closed,High,Technical,Feature Bug,Email,Sneha,C2761
+T1091,2026-05-12,2026-05-12,closed,Medium,Login,Login Error,Chat,Amit,C1898
+T0791,2026-02-21,2026-02-21,Closed,Low,Account,Delete Account,Phone,Rahul,C3525
+T1269,2026-07-17,2026-07-17,closed,High,Payment,Refund Request,Chat,Priya,C1275
+T0709,2026-06-28,2026-06-28,closed,Medium,Billing,Billing Cycle Query,Chat,Priya,C2611
+T0881,2026-04-26,2026-04-26, Closed,Low,Billing,Invoice Issue,Chat,Neha,C2579
+T0467,2026-08-08,2026-08-08,Closed,High,Payment,Card Declined,Email,Karan,C3888
+T0701,2026-05-31,2026-05-31,Closed,Medium,Account,Delete Account,Phone,Karan,C2335
+T0981,2026-03-21,2026-03-21,closed,High,Billing,Overcharge,Phone,Karan,C2686
+T1310,2026-01-01,2026-01-01,CLOSED,High,Account,Update Profile,Chat,Priya,C4494
+T1279,2026-05-10,2026-05-11,Closed,Medium,Technical,App Crash,Chat,Karan,C4776
+T1083,2026-05-11,2026-05-11, Closed,Low,,Payment Failed,Web,Anjali,C2045
+T0418,2026-02-23,2026-02-23,Closed,Medium,Account,Update Profile,Email,Rahul,C4810
+T1309,2026-04-20,2026-04-20,closed,Medium,Account,Delete Account,Web,Vikram,C1662
+T0338,2026-02-15,2026-02-15,closed,Low,Account,Delete Account,Chat,Karan,C2838
+T0228,2026-08-04,2026-08-04, Closed,High,Payment,Refund Request,Web,Sneha,C4118
+T0302,2026-05-30,2026-05-31,Closed,Medium,Payment,Duplicate Charge,Web,Neha,C2067
+T0156,2026-06-06,2026-06-06, Closed,Medium,Account,Subscription Cancel,Chat,Amit,C2343
+T1331,2026-07-20,2026-07-20, Closed,High,Login,OTP Not Received,Phone,Amit,C1251
+T0337,2026-08-11,,Open ,High,Account,Update Profile,Web,Sneha,C3541
+T0539,2026-03-15,2026-03-15,Closed,Low,Account,Delete Account,Chat,Anjali,C2523
+T0837,2026-04-29,2026-04-30,CLOSED,Low,Payment,Card Declined,Chat,Vikram,C4580
+T1421,2026-01-14,2026-01-14,Closed,Medium,Billing,Invoice Issue,Chat,Sneha,C2510
+T0914,2026-05-01,2026-05-01,closed,High,Account,Subscription Cancel,Phone,Vikram,C4942
+T0560,2026-03-19,2026-03-19,Closed,Medium,Billing,Invoice Issue,Web,Rahul,C1271
+T0028,2026-07-09,2026-07-09, Closed,Medium,,Password Reset,Chat,Karan,C1661
+T0910,2026-06-28,2026-06-28, Closed,Medium,Login,Login Error,Web,Vikram,C2580
+T0734,2026-06-20,2026-06-21,CLOSED,High,Payment,Card Declined,Web,Rahul,C3856
+T1220,2026-05-01,2026-05-01,CLOSED,Medium,Login,OTP Not Received,Web,Anjali,C4361
+T1184,2026-04-30,2026-05-01, Closed,Medium,Payment,Refund Request,Email,Neha,C2678
+T0355,2026-03-13,2026-03-13,closed,Medium,Account,Subscription Cancel,Chat,Priya,C4447
+T0163,2026-03-15,2026-03-16, Closed,Low,Technical,Feature Bug,Chat,Karan,C1172
+T0402,2026-07-15,2026-07-16,CLOSED,Medium,Technical,Slow Performance,Phone,Sneha,C3116
+T0262,2026-01-08,2026-01-08, Closed,Low,Login,Account Locked,Phone,Vikram,C3032
+T1145,2026-06-03,2026-06-03, Closed,Medium,Technical,Feature Bug,Chat,Anjali,C2038
+T1013,2026-02-07,2026-02-07,closed,Medium,Account,Subscription Cancel,Phone,Rahul,C3697
+T0986,2026-07-03,2026-07-04, Closed,Low,Technical,Slow Performance,Chat,Amit,C3147
+T0812,2026-01-22,2026-01-22,closed,Medium,Login,OTP Not Received,Web,Priya,C2476
+T1058,2026-04-21,2026-04-21, Closed,Medium,Login,Account Locked,Web,Rahul,C3382
+T1206,2026-06-29,2026-06-29,CLOSED,High,Billing,Invoice Issue,Phone,Rahul,C2431
+T1407,2026-05-01,2026-05-01,closed,Medium,Login,Account Locked,Web,Priya,C2631
+T0222,2026-06-25,2026-06-25, Closed,High,Login,Login Error,Phone,Anjali,C2675
+T0031,2026-07-21,2026-07-21, Closed,Low,Account,Subscription Cancel,Chat,Karan,C1652
+T1100,2026-01-26,2026-01-26,closed,Medium,Billing,Plan Upgrade Error,Chat,Neha,C1650
+T0013,2026-05-05,,open,High,Account,Delete Account,Email,Priya,C3997
+T0123,2026-05-16,2026-05-16,closed,Medium,Billing,Billing Cycle Query,Web,Vikram,C3059
+T0796,2026-04-25,2026-04-25,CLOSED,High,Billing,Invoice Issue,Chat,Sneha,C3886
+T1462,2026-03-17,2026-03-17, Closed,Low,Billing,Billing Cycle Query,Chat,Sneha,C1151
+T1093,2026-04-06,2026-04-06,Closed,Low,Billing,Plan Upgrade Error,Chat,Neha,C2728
+T0515,2026-02-14,2026-02-14,Closed,Medium,Billing,Overcharge,Chat,Rahul,C3429
+T1031,2026-03-25,2026-03-26,CLOSED,High,Technical,Sync Issue,Chat,Rahul,C3904
+T1385,2026-04-06,2026-04-06,Closed,Medium,Billing,Overcharge,Chat,Sneha,C3642
+T0190,2026-02-20,2026-02-21, Closed,Medium,Payment,Payment Failed,Phone,Karan,C1624
+T1390,2026-04-12,2026-04-12, Closed,Medium,Billing,Invoice Issue,Email,Anjali,C1634
+T0576,2026-01-15,2026-01-15,closed,Medium,Login,Login Error,Web,Vikram,C2438
+T0363,2026-01-30,2026-01-31, Closed,Medium,Billing,Invoice Issue,Phone,Neha,C3950
+T0162,2026-03-31,2026-03-31,CLOSED,Medium,Account,Delete Account,Phone,Neha,C2965
+T0213,2026-04-11,2026-04-11,closed,Medium,Login,Password Reset,Chat,Anjali,C2532
+T0057,2026-02-19,2026-02-20,closed,Medium,Technical,Sync Issue,Chat,Priya,C3954
+T0800,2026-07-01,2026-07-01,CLOSED,Medium,Login,Account Locked,Email,Anjali,C3063
+T0138,2026-04-09,2026-04-10,closed,High,Technical,App Crash,Chat,Neha,C2483
+T1256,2026-06-19,2026-06-19,Closed,Low,Payment,Payment Failed,Phone,Sneha,C1163
+T0648,2026-05-10,2026-05-11, Closed,Low,Technical,Feature Bug,Phone,Amit,C1591
+T0276,2026-08-10,2026-08-11,closed,Medium,Technical,Sync Issue,Email,Anjali,C4230
+T0822,2026-07-12,2026-07-12,closed,High,Login,OTP Not Received,Email,Rahul,C3474
+T1349,2026-01-24,2026-01-24,closed,Medium,Login,Account Locked,Phone,Anjali,C4798
+T0971,2026-06-10,2026-06-11,CLOSED,,Technical,Feature Bug,Chat,Sneha,C4193
+T0980,2026-03-05,2026-03-05, Closed,Medium,Login,Password Reset,Chat,Anjali,C3430
+T0877,2026-05-30,,Open ,High,Billing,Billing Cycle Query,Web,Amit,C4084
+T0926,2026-05-03,2026-05-03,closed,High,Login,Password Reset,Chat,Neha,C2767
+T0371,2026-01-28,2026-01-29,CLOSED,Medium,Technical,Slow Performance,Web,Vikram,C2483
+T0603,2026-03-02,2026-03-02,CLOSED,High,Account,Update Profile,Email,Rahul,C2363
+T0312,2026-06-27,2026-06-28,Closed,Medium,Technical,App Crash,Phone,Amit,C1841
+T0359,2026-05-05,2026-05-06,CLOSED,Low,Payment,Card Declined,Email,Sneha,C4118
+T0243,2026-06-28,2026-06-28,closed,Medium,Payment,Refund Request,Phone,Priya,C2270
+T0383,2026-03-09,2026-03-10,closed,Low,Payment,Card Declined,Chat,Sneha,C4574
+T0329,2026-07-13,2026-07-13,Closed,High,Login,Login Error,Chat,Neha,C1441
+T0872,2026-04-14,2026-04-14,Closed,Low,Billing,Invoice Issue,Web,Amit,C4447
+T0019,2026-05-19,,open,Medium,Payment,Payment Failed,Email,Rahul,C3671
+T0110,2026-05-31,2026-05-31,Closed,Medium,Account,Update Profile,Email,Sneha,C2784
+T0469,2026-03-29,2026-03-29,CLOSED,Medium,Login,Login Error,Phone,Amit,C1779
+T0711,2026-03-29,2026-03-29,closed,Medium,Billing,Invoice Issue,Email,Anjali,C2561
+T1246,2026-05-24,2026-05-24,closed,Medium,Technical,App Crash,Email,Vikram,C1271
+T1237,2026-05-08,2026-05-08, Closed,High,Login,Password Reset,Chat,Rahul,C2794
+T0685,2026-01-03,2026-01-03,Closed,High,Account,Subscription Cancel,Chat,Rahul,C2486
+T1296,2026-06-30,2026-07-01,closed,Medium,Technical,Feature Bug,Web,Karan,C3676
+T0813,2026-08-13,2026-08-14, Closed,Low,Technical,Slow Performance,Web,Karan,C2426
+T0223,2026-07-19,2026-07-20, Closed,High,Payment,Duplicate Charge,Chat,Karan,C1688
+T0111,2026-05-11,2026-05-12,CLOSED,Low,Payment,Duplicate Charge,Email,Priya,C3173
+T1495,2026-04-07,2026-04-08, Closed,Medium,Payment,Refund Request,Chat,Neha,C3960
+T0690,2026-03-05,2026-03-05,CLOSED,Low,Billing,Overcharge,Web,Amit,C2342
+T0858,2026-03-08,2026-03-08,CLOSED,High,Payment,Duplicate Charge,Chat,Vikram,C4155
+T0378,2026-02-19,2026-02-20, Closed,Medium,,Plan Upgrade Error,Web,Sneha,C3483
+T1298,2026-02-01,2026-02-01,CLOSED,Medium,Account,Email Change,Phone,Vikram,C2678
+T1330,2026-04-10,2026-04-12,closed,Medium,Technical,Sync Issue,Chat,Amit,C1846
+T1436,2026-08-10,2026-08-10,CLOSED,Low,Account,Email Change,Phone,Neha,C4262
+T0829,2026-08-11,,OPEN,High,Login,Account Locked,Phone,Anjali,C3401
+T0529,2026-04-28,2026-04-28,Closed,Medium,Login,Password Reset,Web,Amit,C3880
+T0757,2026-04-11,2026-04-11,CLOSED,Medium,Login,Login Error,Phone,Neha,C4103
+T0497,2026-05-17,2026-05-17, Closed,Medium,Account,Subscription Cancel,Web,Rahul,C1398
+T0268,2026-02-18,2026-02-18, Closed,Low,Account,Update Profile,Web,Amit,C3306
+T0871,2026-03-25,2026-03-25,closed,,Account,Subscription Cancel,Phone,Amit,C3463
+T1341,2026-02-23,2026-02-23,closed,High,Billing,Billing Cycle Query,Web,Anjali,C4658
+T1247,2026-05-01,2026-05-03, Closed,Medium,Technical,Sync Issue,Web,Karan,C4503
+T1437,2026-02-04,2026-02-04,Closed,Low,Billing,Invoice Issue,Phone,Neha,C1104
+T0394,2026-06-17,2026-06-17,CLOSED,High,Login,Password Reset,Chat,Neha,C2297
+T0453,2026-02-07,2026-02-08,Closed,Medium,Payment,Duplicate Charge,Chat,Amit,C4558
+T0654,2026-01-23,2026-01-24,CLOSED,Low,Billing,Invoice Issue,Phone,Karan,C3645
+T0632,2026-07-31,,Open,Low,Login,OTP Not Received,Web,Amit,C1715
+T0923,2026-05-01,,Open,Medium,Billing,Plan Upgrade Error,Email,Priya,C3387
+T1170,2026-03-03,2026-03-03,CLOSED,Medium,Account,Update Profile,Chat,Rahul,C3659
+T0060,2026-01-17,2026-01-17,Closed,Low,Login,OTP Not Received,Phone,Priya,C4367
+T1101,2026-05-14,2026-05-15, Closed,Medium,Technical,Slow Performance,Phone,Karan,C2596
+T1430,2026-02-25,2026-02-25,CLOSED,High,Account,Subscription Cancel,Web,Sneha,C1439
+T0908,2026-08-06,2026-08-06, Closed,Medium,Login,OTP Not Received,Chat,Sneha,C4447
+T1004,2026-01-14,2026-01-14,CLOSED,Low,Payment,Duplicate Charge,Chat,Amit,C2271
+T0746,2026-04-09,2026-04-09,closed,Low,Account,Subscription Cancel,Phone,Priya,C4007
+T0868,2026-03-22,2026-03-22,CLOSED,Medium,,Account Locked,Web,Amit,C4192
+T0645,2026-03-18,2026-03-18,closed,Medium,Login,Login Error,Chat,Sneha,C2434
+T0637,2026-04-06,2026-04-07, Closed,Medium,Technical,Sync Issue,Chat,Priya,C2089
+T0030,2026-03-02,,open,Low,Login,OTP Not Received,Phone,Amit,C4791
+T0332,2026-07-08,2026-07-09,closed,High,Technical,Slow Performance,Web,Neha,C3915
+T1229,2026-04-06,2026-04-06, Closed,High,Account,Subscription Cancel,Web,Neha,C2588
+T0893,2026-04-07,2026-04-08,CLOSED,High,Technical,Sync Issue,Email,Sneha,C4770
+T0670,2026-02-19,2026-02-20,closed,Low,Technical,App Crash,Phone,Amit,C3260
+T0103,2026-02-16,2026-02-16,CLOSED,Low,Account,Delete Account,Email,Karan,C1118
+T0841,2026-01-18,2026-01-18,Closed,Medium,Login,Login Error,Chat,Priya,C1580
+T1019,2026-04-18,2026-04-18, Closed,Medium,Account,Email Change,Phone,Rahul,C2069
+T0884,2026-02-18,2026-02-18,CLOSED,Medium,Login,Password Reset,Phone,Sneha,C2204
+T0891,2026-01-04,2026-01-05,CLOSED,Medium,Billing,Plan Upgrade Error,Web,Neha,C2879
+T1422,2026-02-01,2026-02-01,closed,Medium,Billing,Plan Upgrade Error,Email,Rahul,C3756
+T1141,2026-04-05,2026-04-05,Closed,Low,Billing,Invoice Issue,Phone,Amit,C3083
+T0562,2026-05-29,2026-05-29,closed,Medium,Billing,Overcharge,Email,Priya,C4357
+T0769,2026-02-02,2026-02-02, Closed,Medium,Payment,Refund Request,Chat,Neha,C2136
+T0771,2026-02-09,2026-02-10, Closed,Medium,Payment,Duplicate Charge,Chat,Vikram,C4365
+T0601,2026-03-16,2026-03-16, Closed,Medium,Account,Delete Account,Phone,Amit,C1117
+T0097,2026-08-05,2026-08-05,Closed,Medium,Login,OTP Not Received,Email,Rahul,C2961
+T0367,2026-02-08,2026-02-09,closed,High,Technical,Slow Performance,Chat,Vikram,C4385
+T0513,2026-02-13,2026-02-13,Closed,Low,Payment,Payment Failed,Email,Anjali,C3503
+T1189,2026-05-06,2026-05-06,CLOSED,High,Billing,Plan Upgrade Error,Phone,Sneha,C2705
+T1087,2026-05-08,2026-05-09, Closed,Medium,Payment,Refund Request,Email,Amit,C1122
+T0612,2026-03-10,2026-03-10,Closed,Low,Login,Login Error,Phone,Anjali,C3573
+T0279,2026-03-02,2026-03-03, Closed,Medium,Payment,Card Declined,Web,Karan,C2218
+T0617,2026-03-29,2026-03-30,closed,Medium,Payment,Card Declined,Email,Rahul,C3102
+T1173,2026-03-08,2026-03-09, Closed,Low,Technical,Feature Bug,Chat,Neha,C3945
+T1334,2026-07-04,2026-07-05,CLOSED,Medium,Payment,Card Declined,Chat,Priya,C2096
+T1344,2026-02-10,2026-02-10,Closed,Medium,Login,Password Reset,Chat,Amit,C4368
+T1217,2026-01-10,2026-01-10, Closed,,Login,Account Locked,Phone,Vikram,C1122
+T0051,2026-04-20,2026-04-21,Closed,,Billing,Invoice Issue,Email,Neha,C3182
+T1425,2026-03-29,2026-03-29,closed,Medium,Account,Delete Account,Web,Anjali,C1728
+T0016,2026-05-12,2026-05-12, Closed,High,Login,Account Locked,Email,Neha,C1290
+T0995,2026-04-03,2026-04-04,Closed,Medium,Payment,Card Declined,Email,Sneha,C2810
+T0777,2026-07-17,2026-07-18,Closed,Medium,Technical,Slow Performance,Email,Karan,C2665
+T0115,2026-05-02,2026-05-02,Closed,Low,Login,Login Error,Chat,Neha,C3478
+T1228,2026-02-17,2026-02-17,Closed,High,Payment,Payment Failed,Web,Priya,C1848
+T0763,2026-07-10,2026-07-10,closed,High,Billing,Overcharge,Phone,Karan,C3841
+T0672,2026-04-15,2026-04-17, Closed,Low,Technical,App Crash,Web,Vikram,C4458
+T0533,2026-05-03,2026-05-04,closed,Low,Payment,Refund Request,Chat,Priya,C3658
+T1187,2026-08-07,2026-08-07,closed,Medium,Payment,Payment Failed,Chat,Karan,C4398
+T1055,2026-06-26,2026-06-26,closed,Low,Payment,Duplicate Charge,Chat,Sneha,C1935
+T0205,2026-03-19,2026-03-19,closed,Medium,Billing,Overcharge,Chat,Amit,C2101
+T0258,2026-07-02,2026-07-02,CLOSED,High,Billing,Invoice Issue,Web,Amit,C1373
+T1327,2026-02-17,2026-02-17,closed,Medium,Login,Login Error,Web,Amit,C3361
+T0842,2026-01-14,2026-01-15, Closed,Medium,Technical,Slow Performance,Web,Amit,C4401
+T1446,2026-01-14,2026-01-16,closed,Low,Technical,Feature Bug,Chat,Priya,C2607
+T0644,2026-05-10,2026-05-11,Closed,Low,Technical,App Crash,Web,Karan,C3568
+T0863,2026-02-26,2026-02-26,closed,Low,Account,Update Profile,Email,Neha,C1567
+T0425,2026-02-05,2026-02-05,closed,High,Account,Delete Account,Phone,Neha,C1639
+T0809,2026-03-26,2026-03-26,closed,High,Login,Account Locked,Phone,Amit,C2259
+T1138,2026-06-10,2026-06-10, Closed,Medium,Account,Delete Account,Chat,Karan,C4867
+T1102,2026-07-07,2026-07-07,Closed,Medium,Login,Password Reset,Web,Sneha,C4780
+T1221,2026-05-29,2026-05-29, Closed,Medium,Billing,Overcharge,Web,Vikram,C1712
+T0466,2026-02-08,2026-02-08,Closed,High,Account,Update Profile,Web,Neha,C1271
+T0127,2026-01-02,2026-01-03,closed,Low,Technical,Slow Performance,Phone,Anjali,C3520
+T1399,2026-04-15,2026-04-16,closed,Low,Billing,Invoice Issue,Web,Rahul,C2856
+T0866,2026-04-01,2026-04-01,Closed,Medium,Account,Update Profile,Phone,Sneha,C3323
+T0161,2026-03-05,2026-03-05,CLOSED,Medium,Billing,Plan Upgrade Error,Web,Anjali,C1787
+T0972,2026-07-16,2026-07-16,Closed,High,Login,Login Error,Web,Neha,C4140
+T0145,2026-02-09,2026-02-10,closed,Medium,Payment,Refund Request,Email,Priya,C3122
+T0233,2026-06-20,2026-06-20, Closed,Medium,Account,Update Profile,Web,Priya,C2523
+T0720,2026-06-28,2026-06-28,closed,Medium,Billing,Overcharge,Email,Neha,C3584
+T0092,2026-06-15,2026-06-16, Closed,Low,Technical,Slow Performance,Email,Neha,C3230
+T0782,2026-03-20,,Open,Low,Payment,Payment Failed,Phone,Sneha,C4780
+T0505,2026-04-25,2026-04-25, Closed,,Account,Update Profile,Email,Karan,C4183
+T0740,2026-01-22,2026-01-23,CLOSED,Low,Technical,App Crash,Chat,Priya,C2200
+T0979,2026-05-03,2026-05-03,CLOSED,Medium,Billing,Invoice Issue,Chat,Anjali,C2514
+T1408,2026-02-11,2026-02-12, Closed,Low,Billing,Overcharge,Email,Rahul,C4415
+T0120,2026-02-27,2026-02-27,CLOSED,Low,Account,Delete Account,Web,Anjali,C1786
+T0370,2026-01-02,2026-01-03,Closed,Medium,Payment,Payment Failed,Phone,Karan,C1774
+T1392,2026-03-30,2026-03-30,Closed,Low,Billing,Invoice Issue,Web,Rahul,C4675
+T1227,2026-04-14,2026-04-16,closed,Low,Technical,Slow Performance,Web,Sneha,C4095
+T0277,2026-03-29,2026-03-29, Closed,High,Login,OTP Not Received,Web,Priya,C1303
+T1257,2026-06-04,2026-06-04,CLOSED,Medium,Account,Email Change,Chat,Sneha,C3532
+T0255,2026-03-08,,Open ,Medium,Login,Password Reset,Chat,Sneha,C2194
+T0227,2026-07-12,,OPEN,Medium,Account,Email Change,Email,Amit,C4943
+T0101,2026-04-01,,Open ,Medium,Account,Delete Account,Web,Priya,C2682
+T1352,2026-07-22,2026-07-22,Closed,Medium,Login,Login Error,Chat,Amit,C4288
+T0643,2026-07-23,2026-07-23,CLOSED,Medium,Login,OTP Not Received,Chat,Rahul,C1114
+T0535,2026-08-15,2026-08-16,Closed,Medium,Technical,Sync Issue,Web,Priya,C1771
+T1205,2026-07-15,2026-07-15,Closed,Medium,Account,Email Change,Phone,Rahul,C3089
+T0697,2026-07-17,2026-07-17,CLOSED,High,Account,Email Change,Chat,Karan,C1034
+T0671,2026-08-06,2026-08-07,CLOSED,Low,Payment,Duplicate Charge,Chat,Karan,C1785
+T0185,2026-05-16,2026-05-16,closed,Low,Payment,Card Declined,Phone,Vikram,C3282
+T1411,2026-01-31,2026-02-01,Closed,Medium,Technical,App Crash,Phone,Vikram,C3788
+T0640,2026-08-15,2026-08-15,CLOSED,,Billing,Invoice Issue,Web,Vikram,C2646
+T1492,2026-06-02,2026-06-02,Closed,Low,Login,Account Locked,Phone,Priya,C2226
+T0781,2026-06-23,2026-06-24,Closed,High,Technical,Feature Bug,Email,Neha,C4743
+T1038,2026-02-14,2026-02-15,Closed,Medium,Payment,Card Declined,Web,Anjali,C3687
+T0639,2026-02-12,2026-02-12, Closed,High,Login,Password Reset,Web,Vikram,C4163
+T0902,2026-01-08,2026-01-09, Closed,Medium,Technical,Sync Issue,Phone,Vikram,C2889
+T1126,2026-06-28,2026-06-28,CLOSED,High,Payment,Card Declined,Phone,Karan,C3205
+T1267,2026-03-17,2026-03-17, Closed,Medium,Account,Update Profile,Web,Anjali,C1610
+T1427,2026-04-09,2026-04-09,Closed,Low,Account,Update Profile,Phone,Karan,C4916
+T0811,2026-08-14,2026-08-15,Closed,Medium,Payment,Card Declined,Web,Karan,C1925
+T1192,2026-02-02,2026-02-02,closed,Medium,Account,Email Change,Web,Sneha,C4694
+T1432,2026-04-01,2026-04-01, Closed,Low,Login,OTP Not Received,Email,Rahul,C4179
+T0510,2026-01-17,2026-01-18, Closed,Low,Payment,Payment Failed,Chat,Anjali,C2592
+T1265,2026-04-04,2026-04-05,closed,Medium,Technical,App Crash,Web,Sneha,C2102
+T1480,2026-01-15,2026-01-15, Closed,Medium,Payment,Refund Request,Phone,Rahul,C1131
+T1359,2026-04-05,2026-04-05,CLOSED,Medium,Login,Account Locked,Web,Sneha,C2317
+T0733,2026-06-26,2026-06-27,Closed,Low,Technical,Sync Issue,Web,Anjali,C3600
+T0865,2026-02-22,2026-02-22, Closed,High,Account,Subscription Cancel,Web,Amit,C4252
+T1119,2026-03-12,2026-03-13,closed,Low,Payment,Card Declined,Chat,Amit,C3734
+T0543,2026-03-16,2026-03-17,closed,Medium,Billing,Plan Upgrade Error,Web,Anjali,C4669
+T0772,2026-03-26,2026-03-26,CLOSED,High,Login,OTP Not Received,Email,Vikram,C1270
+T1284,2026-07-06,2026-07-06,Closed,Low,Payment,Payment Failed,Chat,Rahul,C2087
+T0808,2026-06-10,2026-06-10,Closed,High,Login,Account Locked,Email,Karan,C1584
+T0379,2026-01-30,,OPEN,Medium,Billing,Invoice Issue,Web,Neha,C4878
+T1275,2026-03-18,2026-03-18,CLOSED,,Account,Update Profile,Phone,Vikram,C2539
+T0669,2026-05-07,2026-05-07, Closed,High,Account,Delete Account,Web,Sneha,C1959
+T0464,2026-03-26,,Open ,Low,Account,Subscription Cancel,Email,Amit,C1794
+T0215,2026-01-18,2026-01-18,Closed,Medium,Technical,Sync Issue,Phone,Anjali,C2306
+T1059,2026-03-11,2026-03-11,closed,Low,Billing,Billing Cycle Query,Web,Vikram,C3463
+T0848,2026-02-15,2026-02-16,CLOSED,Medium,Technical,Feature Bug,Phone,Neha,C1464
+T0555,2026-05-29,2026-05-29,closed,Medium,Account,Email Change,Web,Priya,C3188
+T0907,2026-02-22,2026-02-22,Closed,High,Login,Password Reset,Email,Priya,C2012
+T0164,2026-06-07,2026-06-07,closed,Low,Billing,Plan Upgrade Error,Web,Amit,C1447
+T0557,2026-02-03,2026-02-03,CLOSED,Medium,Billing,Invoice Issue,Email,Priya,C4353
+T0199,2026-07-09,2026-07-10,Closed,Medium,Billing,Billing Cycle Query,Web,Vikram,C4094
+T0298,2026-07-02,2026-07-02,closed,Medium,Account,Email Change,Web,Karan,C3687
+T1129,2026-06-29,2026-06-30, Closed,Medium,Technical,App Crash,Email,Vikram,C3351
+T0946,2026-07-03,2026-07-03,CLOSED,High,Billing,Invoice Issue,Chat,Neha,C3092
+T1474,2026-01-24,2026-01-25, Closed,,Technical,Slow Performance,Phone,Karan,C4127
+T0006,2026-06-24,2026-06-24,closed,Medium,Account,Delete Account,Chat,Karan,C3874
+T1109,2026-05-30,2026-05-30, Closed,High,Account,Email Change,Email,Anjali,C1994
+T1478,2026-01-08,2026-01-08,Closed,Medium,Account,Email Change,Phone,Karan,C3032
+T0086,2026-05-09,2026-05-09,CLOSED,High,Account,Subscription Cancel,Chat,Neha,C3174
+T1292,2026-01-09,2026-01-09,CLOSED,Low,Login,Account Locked,Email,Anjali,C1727
+T1120,2026-03-17,2026-03-18,Closed,Medium,Payment,Card Declined,Chat,Amit,C1050
+T1174,2026-02-02,2026-02-02,Closed,Low,Login,OTP Not Received,Email,Rahul,C4320
+T1103,2026-02-10,2026-02-11, Closed,Low,Technical,Slow Performance,Chat,Vikram,C4220
+T1218,2026-05-03,2026-05-03,CLOSED,Low,Login,Password Reset,Web,Karan,C3944
+T0530,2026-06-12,2026-06-13,Closed,Low,Technical,Slow Performance,Web,Anjali,C3883
+T1434,2026-07-27,,Open ,High,Account,Subscription Cancel,Chat,Neha,C3283
+T0260,2026-07-30,2026-07-30,Closed,High,Login,Password Reset,Chat,Amit,C1811
+T1057,2026-06-12,2026-06-13, Closed,Medium,Technical,App Crash,Email,Neha,C4235
+T0134,2026-04-13,2026-04-13, Closed,Medium,Login,OTP Not Received,Web,Vikram,C4643
+T0992,2026-04-09,2026-04-09,CLOSED,High,Billing,Invoice Issue,Phone,Vikram,C4169
+T0963,2026-06-30,2026-06-30,Closed,Low,Login,OTP Not Received,Email,Vikram,C1411
+T0130,2026-05-15,2026-05-16,Closed,Medium,Payment,Payment Failed,Web,Priya,C4905
+T0824,2026-07-30,2026-07-31,Closed,Medium,Payment,Card Declined,Chat,Vikram,C1752
+T0853,2026-01-07,2026-01-08,CLOSED,High,Technical,Slow Performance,Phone,Rahul,C1063
+T1162,2026-07-09,2026-07-10, Closed,Medium,Payment,Refund Request,Phone,Sneha,C4555
+T0058,2026-04-03,2026-04-04,Closed,Low,Billing,Plan Upgrade Error,Chat,Karan,C1931
+T0561,2026-08-05,2026-08-06,CLOSED,Medium,Payment,Refund Request,Email,Priya,C1596
+T0593,2026-03-23,2026-03-23, Closed,High,Payment,Duplicate Charge,Chat,Anjali,C3586
+T1428,2026-06-09,2026-06-09,Closed,High,Account,Email Change,Chat,Karan,C3572
+T0396,2026-07-17,2026-07-17,Closed,Low,Login,Password Reset,Phone,Rahul,C1107
+T0065,2026-04-30,2026-05-01, Closed,Medium,Payment,Duplicate Charge,Web,Anjali,C1509
+T1332,2026-01-04,2026-01-04,Closed,Medium,Account,Delete Account,Chat,Vikram,C4150
+T0652,2026-03-28,2026-03-28,closed,Medium,Login,Login Error,Web,Anjali,C4687
+T0879,2026-01-20,2026-01-20, Closed,Medium,Login,OTP Not Received,Chat,Sneha,C3846
+T0200,2026-07-16,2026-07-16, Closed,High,Login,Login Error,Email,Neha,C3478
+T1263,2026-03-01,2026-03-01, Closed,Medium,Account,Email Change,Chat,Karan,C4680
+T0256,2026-07-19,2026-07-19,Closed,Medium,Account,Subscription Cancel,Email,Sneha,C1557
+T0537,2026-02-18,2026-02-19,closed,Medium,Payment,Card Declined,Phone,Rahul,C2194
+T0297,2026-06-15,2026-06-15,CLOSED,Medium,Billing,Billing Cycle Query,Email,Neha,C3299
+T1015,2026-03-04,2026-03-05,Closed,Low,Technical,Slow Performance,Phone,Anjali,C3892
+T0619,2026-01-12,2026-01-13, Closed,Medium,Payment,Card Declined,Email,Priya,C4757
+T0571,2026-05-08,2026-05-08,CLOSED,Low,Login,Login Error,Chat,Karan,C3711
+T0738,2026-04-06,2026-04-07,closed,Medium,Technical,Feature Bug,Phone,Amit,C1722
+T0340,2026-07-01,2026-07-01,closed,Medium,Login,OTP Not Received,Web,Priya,C4211
+T0045,2026-01-08,2026-01-08, Closed,Medium,Billing,Overcharge,Web,Vikram,C2989
+T1435,2026-03-18,2026-03-19,CLOSED,Low,Billing,Billing Cycle Query,Phone,Anjali,C2144
+T0681,2026-05-30,2026-05-30,closed,Medium,Login,Account Locked,Phone,Neha,C2274
+T0821,2026-05-16,2026-05-18,CLOSED,Low,Technical,Slow Performance,Phone,Amit,C4064
+T0194,2026-01-25,2026-01-25,closed,High,Billing,Plan Upgrade Error,Phone,Amit,C1438
+T1047,2026-03-08,2026-03-08, Closed,Low,Login,Login Error,Phone,Sneha,C4100
+T1140,2026-01-13,2026-01-13,Closed,Low,Login,OTP Not Received,Chat,Neha,C4027
+T0658,2026-03-20,2026-03-21,Closed,High,Payment,Duplicate Charge,Web,Priya,C1631
+T0522,2026-01-29,2026-01-29,Closed,Medium,Billing,Plan Upgrade Error,Web,Sneha,C4190
